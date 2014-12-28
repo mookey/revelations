@@ -1,26 +1,26 @@
+
 <p>
     <strong>Livet är en</strong> cementtrampolin.
 Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag själv hade byggt. Vi hade inte råd med fyra årstider. Vi hade inte råd med wikipedia på vårt internet. När jag masturberade fantiserade jag om en ostmacka. Vi hade inte råd med ljus i tunneln. Jag och mina syskon fick dela på familjens DNA-stege. Syrrans tama igelkott, blind på båda ögonen, klippt i örat, halt på vänster bakben, fick dubblera som toalettborste. Han hette Lucky. Vi begravde honom i mungipan på grannens Rottweiler. Vaknade jag upp utan erektion på julafton så hade jag inget att leka med. Vi köpte sju grundämnen. Vi byggde molekyler själva.
 </p>
 <p>
-<strong>Jag hade två fina</strong> syskon. Pappa sa att två av fem är inte var så dåligt. Vi använde en av tvillingarna för reservdelar. Brorsan hade sexappeal som en skolbussbrand. Han föll från det fula trädet och slog i varje gren på väg ned. Barnmorskan örfilade mamma vid hans födseln. Jag sålde honom på gatan. Det var inget jag var stolt över - det kändes som vi tog överpris. Du inser att du är en bit från societén när din tolvåriga syster röker vid frukostbordet framför sina egna ungar. Syrran var okej. Förväxlade sina p-piller med valium. Fick 14 ungar. Kunde inte bry sig mindre.
+<strong>Jag hade två fina</strong> syskon. Pappa sa att två av fem är inte var så dåligt. Vi använde en av tvillingarna för reservdelar. Du inser att du är en bit från societén när din tolvåriga syster röker vid frukostbordet framför sina egna ungar. Syrran var okej. Förväxlade sina p-piller med valium. Fick 14 ungar. Kunde inte bry sig mindre.
 </p>
 
 <p>
-    <strong>Hela min familj</strong> arbetade i gruvan. Farfar var kontrollant - han sändes ned med avsikt att garantera säkerheten för kanariefåglarna.
-    Farfar jobbade där hela sitt liv. Han blev 16 år gammal.
-    Farmor var gammal. Hennes personnummer var 3.
-    Hon köpte inte längre gröna bananer.
-    Hon hade en trilobit som husdjur.
-    Hennes födelseort var Pangea.
-    När hon var ung var Burger King fortfarande en prins.
-    Deklarerade på runsten.
-    Förlorade körsbäret till Noak.
-    Sjukhuset hade slutat stödja hennes blodgrupp.
-    Hon refererade till de puniska krigen.
-    När Alexander Graham Bell uppfann telefonen hade han två missade samtal från farmor.
-När hon växte upp kostade ett öga ett öga. En tand en tand.
-Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
+  <strong>Hela min familj</strong> arbetade i gruvan. Farfar var kontrollant - han sändes ned med avsikt att garantera säkerheten för kanariefåglarna.
+  Farfar jobbade där hela sitt liv. Han blev 16 år gammal.
+  Farmor var gammal. Hennes personnummer var 3.
+  Hon köpte inte längre gröna bananer.
+  Hon hade en trilobit som husdjur.
+  Hennes födelseort var Pangea.
+  När hon var ung var Burger King fortfarande en prins.
+  Deklarerade på runsten.
+  Förlorade körsbäret till Noak.
+  Sjukhuset hade slutat stödja hennes blodgrupp.
+  Hon refererade till de puniska krigen.
+  När Alexander Graham Bell uppfann telefonen hade han två missade samtal från farmor.
+  Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
 </p>
 <p>
   <strong>Vid tre års ålder</strong> tog jag anställning. I gruvan arbetade vi åtta dagar i veckan.
@@ -47,12 +47,13 @@ Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
   När alkohol hade årsstämma angav den pappa som ett konjunkturberoende.
   När mamma lämnade var pappa förtvivlad - hon tog vinöppnare med sig.
   Pappa gick på whisky-diet - förlorade tre dagar direkt.
+  Han botade baksmälla genom att pressa juicen ur en kvarting brännvin.
   När jag själv läste om drogernas effekter blev jag förskräckt. Jag har inte läst sedan dess.
   Alkohol är inte svaret, men den hjälper dig att glömma frågan.
 </p>
 <p><strong>1982 slutade pappa</strong> med både sprit och kvinnor. Det var de värsta 20 minutrarna i hans liv.
   Hans nuvarande flickvän sa i sängen till honom att han var pervers. Pappa tyckte det var ganska stora ord för en nioåring.
-  Nioåringar är instabila. Jag minns att hon kunde banka på dörren i 45 minuter mitt i natten. Sedan tröttnade vanligtvis pappa och släppte ut henne.
+  Nioåringar är instabila. Hon kunde banka på dörren i 45 minuter mitt i natten. Sedan tröttnade vanligtvis pappa och släppte ut henne.
   Han fick göra flygpansljud för oralsex.
   Han hade haft otur med båda sina kvinnor, pappa. Den första lämnade honom. Den andra stannade kvar.
 </p>
@@ -67,6 +68,7 @@ Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
   Pappa visade sällan fysisk närhet. Det närmaste jag kom en klapp på axeln var vid fyra års ålder då pappa tappade en fläskkotlett i fontanellen på mig. Han kände sig smutsig efteråt.
   Pappa hade få regler - <i>'Bli aldrig påkommen i sängen med en död flicka. Eller en levande pojke'</i>.
   Pappa brukade säga, <i>'Min bäste herre, har du möjligtvis en liten slant över till en fattig, olycklig man utan jobb? Allt jag äger är denna pistol'</i>.
+  Pappa spenderade sin inkomst på sprit och kvinnor. Resten slösade han bort.
   Luften var ren och sexet smutsigt. Numer verkar det omvända gälla.
 </p>
 <p>
@@ -81,7 +83,6 @@ Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
   <strong>Mormor var en</strong> hängiven klasskämpe. Hon kämpade för ökade klyftor.
   Mormor kände sig besvärad över att behöva åka i samma fordon som sin chaufför.
   Hon kedjade fast sig vid bordssilvret när städerskan kom.
-  Vår familj var att betrakta som illitterat slödder.
   Hennes mjukaste personlighetsdrag var ett porslinöga.
   Hon hade ett känsolmässigt djup i paritet med brevpapper.
   Mormor läste bibeln för mig. Den kändes overklig - jag menar, en långhårig hippie med tolv vänner? 
@@ -96,10 +97,10 @@ Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
 <p>
 
   <strong>Jag gillade morfar.</strong> Han dog stilla i sin sömn. Så vill jag också dö. Inte i ångestfullt skrikandes som passagerarna i hans bil.
-  När jag hörde om olyckan så kastade jag mig på min nystulna cykel till akuten. Kirurgen mötte mig i korridoren. <i>'Det är en otäck smäll. Din morfar är illa däran. Du kommer behöva mata honom. Duscha honom'</i>. Tårarna började rinna nedför kinderna. <i>'Du blir tvungen att lägga honom. Följa med honom på toaletten'</i>. Jag grät. <i>'Aah, jag bara driver med dig'</i>, sa kirurgen, <i>'han är död'</i>.
+  Kirurgen mötte mig i korridoren. <i>'Det är en otäck smäll. Din morfar är illa däran. Du kommer behöva mata honom. Duscha honom'</i>. Tårarna började rinna. <i>'Du blir tvungen att lägga honom. Följa med honom på toaletten'</i>. Jag grät. <i>'Jag bara driver med dig'</i>, sa kirurgen, <i>'han är död'</i>.
 </p>
 <p>
-  <strong>Morfar lärde mig</strong> om blommor och bin. <i>'Grabben, du vet, sex vi den här åldern är som att spela biljard med ett rep. Men jag har haft mitt. Gudarna har välsignat mig med många saker i det här livet - intellekt som en jävla rymdkirurg, humor som Eddie Murphy och en baguett i storleksordningen ett vedträ'</i>. Hans tunga kunde ta ett strykjärn till crescendo, så delikat att han kunde räkna årsringarna i mormors broskvävnad. Allt handlar om mannen i båten. Det enda jag inte kunde prata med morfar var politik - <i>'Morfar, vilket parti röstade du på förra valet?'</i>. <i>'Amen, vaa i helvete - du vet ju att det är personligt. Jag pratar inte om personliga saker har jag sagt. Hur som helst, jag höll på att pirra granfrun i baken när...'</i>.
+  <strong>Morfar lärde mig</strong> om blommor och bin. <i>'Grabben, du vet, sex vi den här åldern är som att spela biljard med ett rep. Men jag har haft mitt. Gudarna har välsignat mig med många saker i det här livet - intellekt som en jävla rymdkirurg, humor som Eddie Murphy och en baguett som en boaorm'</i>. Hans tunga kunde ta ett strykjärn till crescendo, så delikat att han kunde räkna årsringarna i mormors broskvävnad. Allt handlar om mannen i båten. Det enda jag inte kunde prata med morfar var politik - <i>'Morfar, vilket parti röstade du på förra valet?'</i>. <i>'Amen, vaa i helvete - du vet ju att det är personligt. Jag pratar inte om personliga saker har jag sagt. Hur som helst, jag höll på att pirra granfrun i baken när...'</i>.
 </p>
 <p>
   <strong>Efter flytten fick</strong> vi börja skolan. Skolan i stan var tuff.
@@ -118,6 +119,7 @@ Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
   Jag var lika förvirrad som ett spädbarn i en topless-bar.
   Jag fick lära mig att en miljon apor som bankar på varsitt tangentbord förr eller senare kommer producera Shakespeares samlade verk. Nu, tack vare internet, vet vi att det inte är sant.
   Jag fick lite gehör för mina egna funderingar - Hade en miljon Shakespeares kunnat skriva som en apa? Varför bar kamikaze-piloter hjälm? Personen som uppfann hjulet var en idiot. Den som uppfann följande tre måste ha varit ett geni?
+  Biologilärarinnan hade en anka. Jag sa <i>'Oj, det var den fulaste gris jag någonsin sett.'</i>. Hon sa, <i>'Gris?! Det är en anka!'</i>. <i>'Det ser jag. Det är honom jag talar med'</i>
 </p>
 <p>
   <strong>Jag var ingen</strong> teoretiker. Jag var en av dem som var tvungen att själv kissa på elstängslet.
@@ -139,7 +141,7 @@ Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
   Cellon var mitt favoritinstrument. Den har ett sådant dystert läte. Det låter som någon som läser upp en sista önskan.
 </p>
 <p>
-  <strong>Jag blev hänvisad</strong> till en psykolog. Han sa att jag var utom allt hopp. Jag sa att jag ville ha ett andra utlåtande. Han sa, <i>'Okej, du är ful också'</i>. Han hade en anka. Jag kontrade <i>'Oj, det var den fulaste gris jag någonsin sett.'</i>. Han sa, <i>'Gris?! Det är en anka!'</i>. <i>'Ja det ser jag väl. Det är ju för faan honom jag talar med'</i>.
+  <strong>Jag blev hänvisad</strong> till en psykolog. Han sa att jag var utom allt hopp. Jag sa att jag ville ha ett andra utlåtande. Han sa, <i>'Okej, du är ful också'</i>. Han hade antagligen en poäng. Jag hade ansikte som en kollapsad lunga. Barnmoskan örfilade mamma när jag föddes. Jag föll från det fula trädet och slog i varenda gren på vägen ned. Jag hade sexappeal som en skolbussbrand. Pappa skämdes när han sålde mig på gatan. Han tyckte vi tog överpris.
 </p>
 <p>
   <strong>En av mina</strong> bröder blev advokat - <i>'Säg inget till farmor, hon tror jag spelar piano i ett horhus'</i>.
@@ -189,21 +191,21 @@ Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
 </p>
 <p>
   <strong>Jag blev tillsammans</strong> med en fyra år äldre tjej på gatan. Jag hade kännt henne från innan hon blev oskuld. Hon bar kläder så tighta att man kunde se vad hon tänkte. Rumpa som hos en tioårig pojke. 
-  Hon sa efter första träffen, <i>'Jag har haft en fantastisk afton. Men det var inte den här'</i>. Hon hade en papegoja. Aset höll inte tyst i två sekunder. Men fågeln var schysst. Hon sa att jag inte hade några problem att få henne att uppnå antiklimax. Jag undrar om hon någon gång fick en orgasm under de två år vi var tillsammans, eller om hon fejkade den där natten. Förspel är som hamburgare - tre minuter på varje sida. Hennes favoritposition i sängen var rygg mot rygg. Hon ringde och sa <i>'Kan du inte komma över. Det är ingen hemma'</i>. Jag åkte över. Mycket riktigt, det var ingen hemma.
+  Hon sa efter första träffen, <i>'Jag har haft en fantastisk afton. Men det var inte den här'</i>. Hon hade en papegoja. Aset höll inte tyst i två sekunder. Fågeln däremot, var schyst. Hon sa att jag inte hade några problem att få henne att uppnå antiklimax. Jag undrar om hon någon gång fick en orgasm under de två år vi var tillsammans, eller om hon fejkade den där natten. Förspel är som hamburgare - tre minuter på varje sida. Hennes favoritposition i sängen var rygg mot rygg. Hon ringde och sa <i>'Kan du inte komma över. Det är ingen hemma'</i>. Jag åkte över. Mycket riktigt, det var ingen hemma.
 </p>
 <p>
   <strong>Jag lärde mig</strong> att det finns en rad mekaniska ting för att stimulera kvinnor sexuellt. Den mest effektiva verkar vara en Mercedes 380SL. Jag närvarade vid ett möte för prematur ejakulation. Jag gick tidigt. Min flickvän blev gravid. Du är inte säker med kondom. Det är en myt - precis som växthuseffekten eller förintelsen. Min kompis hade kondom. Han blev överkörd av en buss. Det enda sättet att verkligen ha säker sex är att helt avstå - från att dricka.</p>
 <p>
   <strong>Mitt sexliv är</strong> numer så uselt att jag kommer ställa upp i celebat-världsmästerskapen. Jag möter påven i semi. Jag kommer inte ens ihåg vem som blir bunden längre. Sista gången jag var inne i en kvinna var när besökte frihetsgudinnan. Jag försökte med telefonsex men mitt kön fastande i nummerbrickan.
   Jag måste sätta ögonbindel på min högerhanden när jag masturberar. Jag vaxade delfinen i bilen häromdagen. Jag kommer inte göra det igen. Taxi-chauffören var vansinnig. Det verkar finnas två ämnen som damtidningarna fokuserar på: 1. 'Varför män är vidriga svin'. 2. 'Hur du attraherar män'.
-  Men vad hade världen varit utan män? En fridfull plats med glada, tjocka kvinnor? Sexkanalerna på TV gör oss inte till bättre människor, de vidgar inte våra horisonter och de sänds inte i tillräckligt hög upplösning. Sex är det vackraste och mest naturliga som pengar kan köpa.
+  Men vad hade världen varit utan män? En fridfull plats med glada, tjocka kvinnor? Sexkanalerna på TV gör oss inte till bättre människor, de vidgar inte våra horisonter och de sänds inte i tillräckligt hög upplösning. Sex är det vackraste och mest naturliga som pengar kan köpa. Jag skulle vilja vara den sista mannen på jorden, om inte annat så bara för att se om de där tjejerna ljög för mig.
 </p>
 <p>
   <strong>Jag hade inte</strong> velat vara bisexuell. Jag hade inte stått ut med att bli nobbad av båda könen. De säger att sex mellan en man och en kvinna kan vara fantastiskt. Men jag tänker att det måste bli trångt.
-  Homofobi är den irrationella rädslan att tre filurer bryter sig in mitt i natten och dekorerar om. Om Michelangelo varit hetero så hade det sixtinska kapellet varit målat vitt med en roller.
+  Homofobi är den irrationella rädslan att tre filurer bryter sig in mitt i natten och dekorerar om. Om Michelangelo varit hetero så hade det sixtinska kapellet varit målat vitt med en roller. 
 </p>
 <p>
   <strong>Pappa förstod att</strong> jag skolan inte var för mig. 
   När jag fyllde nio tog pappa med mig för att cappa en golare. Om du önskar dig en katt be dina föräldrar om en elefant. Jag fick en kniv. Pappa la sin arm om mig. Han sa, <i>'Grabben, Charlie, var det? Du vet lådan där jag förvarar gräset? Under pistolen och tidningarna med de nakna flickorna, där ligger det något till dig'</i>. 
-  Det hade blivit vinter. Det var så kallt att jag såg en politiker med händerna i sina egna fickor. Det var så kallt att blottare fick beskriva sina delar muntligt. Väderprognosen för natten – mörk. Pappa satt gränsle över golaren och vevade med stålröret. Golaren var hal som en fuktig ål i maskinfett. Pappa var upptagen som en enarmad taxi-chaufför med flatlöss i en New York-korsning. Det blev kladdigt. Vissa dagar är du statyn. Andra, duvan. Pappa sa, <i>'Du behöver inte alltid simma snabbare än hajen. Du behöver bara simma snabbare än den fete killen'</i>. Det hela påminde mycket om att älska med min flickvän - 10% upphetsning, 90% ångest.
+  Det hade blivit vinter. Det var så kallt att jag såg en politiker med händerna i sina egna fickor. Det var så kallt att blottare fick beskriva sina delar muntligt. Väderprognosen för natten – mörk. Pappa satt gränsle över golaren och vevade med stålröret. Golaren var hal som en fuktig ål i maskinfett. Pappa var upptagen som en enarmad taxi-chaufför med flatlöss i en New York-korsning. Det blev kladdigt. Pappa sa, <i>'Du behöver inte alltid simma snabbare än hajen. Du behöver bara simma snabbare än den fete killen'</i>. Det hela påminde mycket om att älska med min flickvän - 10% upphetsning, 90% ångest.
 </p>
