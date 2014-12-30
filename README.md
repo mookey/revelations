@@ -1,26 +1,26 @@
-        <p>
-          <strong>Livet är en</strong> cementtrampolin.
-          Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag själv hade byggt. Vi hade inte råd med fyra årstider. Vi hade inte råd med wikipedia på vårt internet. När jag masturberade fantiserade jag om en ostmacka. Vi hade inte råd med ljus i tunneln. Jag och mina syskon fick dela på familjens DNA-stege. Syrrans tama igelkott, blind på båda ögonen, klippt i örat, halt på vänster bakben, fick dubblera som toalettborste. Han hette Lucky. Vi begravde honom i mungipan på grannens Rottweiler. Vaknade jag upp utan erektion på julafton så hade jag inget att leka med. Vi köpte sju grundämnen. Vi byggde molekyler själva.
-        </p>
-        <p>
-          <strong>Jag hade två fina</strong> syskon. Pappa sa att två av fem är inte var så tokigt. Vi använde en av tvillingarna för reservdelar. Du inser att du är en bit från societén när din tolvåriga syster röker vid frukostbordet framför sina egna ungar. Syrran var okej. Förväxlade sina p-piller med valium. Fick 14 ungar. Kunde inte bry sig mindre.
-        </p>
-        <p>
-          <strong>Hela min familj</strong> arbetade i gruvan. Farfar var kontrollant - han sändes ned med avsikt att garantera säkerheten för kanariefåglarna.
-          Farfar jobbade där hela sitt liv. Han blev 16 år gammal.
-          Farmor var gammal. Hennes personnummer var 3.
-          Hon köpte inte längre gröna bananer.
-          Hon hade en trilobit som husdjur.
-          Hennes födelseland var Pangea.
-          När hon var ung var Burger King fortfarande en prins.
-          Deklarerade på runsten.
-          Förlorade körsbäret till Noak.
-          Sjukhuset hade slutat stödja hennes blodgrupp.
-          Hon refererade till de puniska krigen.
-          När Alexander Graham Bell uppfann telefonen hade han två missade samtal från farmor.
-          Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
-        </p>
-        <p>
+<p>
+  <strong>Livet är en</strong> cementtrampolin.
+  Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag själv hade byggt. Vi hade inte råd med fyra årstider. Vi hade inte råd med wikipedia på vårt internet. När jag masturberade fantiserade jag om en ostmacka. Vi hade inte råd med ljus i tunneln. Jag och mina syskon fick dela på familjens DNA-stege. Syrrans tama igelkott, blind på båda ögonen, klippt i örat, halt på vänster bakben, fick dubblera som toalettborste. Han hette Lucky. Vi begravde honom i mungipan på grannens Rottweiler. Vaknade jag upp utan erektion på julafton så hade jag inget att leka med. Vi köpte sju grundämnen. Vi byggde molekyler själva.
+</p>
+<p>
+  <strong>Jag hade två fina</strong> syskon. Pappa sa att två av fem är inte var så tokigt. Vi använde en av tvillingarna för reservdelar. Du inser att du är en bit från societén när din tolvåriga syster röker vid frukostbordet framför sina egna ungar. Syrran var okej. Förväxlade sina p-piller med valium. Fick 14 ungar. Kunde inte bry sig mindre.
+</p>
+<p>
+  <strong>Hela min familj</strong> arbetade i gruvan. Farfar var kontrollant - han sändes ned med avsikt att garantera säkerheten för kanariefåglarna.
+  Farfar jobbade där hela sitt liv. Han blev 16 år gammal.
+  Farmor var gammal. Hennes personnummer var 3.
+  Hon köpte inte längre gröna bananer.
+  Hon hade en trilobit som husdjur.
+  Hennes födelseland var Pangea.
+  När hon var ung var Burger King fortfarande en prins.
+  Deklarerade på runsten.
+  Förlorade körsbäret till Noak.
+  Sjukhuset hade slutat stödja hennes blodgrupp.
+  Hon refererade till de puniska krigen.
+  När Alexander Graham Bell uppfann telefonen hade han två missade samtal från farmor.
+  Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
+</p>
+<p>
   <strong>Vid tre års ålder</strong> tog jag anställning. I gruvan arbetade vi åtta dagar i veckan.
   Vi steg upp en timme innan vi hade gått och lagt oss.
   Vi hade en sju minuters lunch där vi serverades varsin käftsmäll.
