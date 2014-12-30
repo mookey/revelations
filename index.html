@@ -1,0 +1,750 @@
+
+<!doctype html>
+<html>
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+      <title>Garhammar</title>
+      <link rel="shortcut icon" href="/dist/img/favicon.ico" />
+      <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Open+Sans:400,800' rel='stylesheet' type='text/css'>
+      <style type="text/css">
+        @charset "UTF-8";
+        /** * YUI 3.5.0 - reset.css (http://developer.yahoo.com/yui/3/cssreset/) * http://cssreset.com * Copyright 2012 Yahoo! Inc. All rights reserved. * http://yuilibrary.com/license/ */
+        /*  TODO will need to remove settings on HTML since we can't namespace it.  TODO with the prefix, should I group by selector or property for weight savings?*/
+        html {
+          color: #000;
+          background: #FFF;
+        }
+
+        /* TODO remove settings on BODY since we can't namespace it.*/
+        /* TODO test putting a class on HEAD.    - Fails on FF. */
+        body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+          margin: 0;
+          padding: 0;
+        }
+
+        table {
+          border-collapse: collapse;
+          border-spacing: 0;
+        }
+
+        fieldset, img {
+          border: 0;
+        }
+
+        /*  TODO think about hanlding inheritence differently, maybe letting IE6 fail a bit...*/
+        address, caption, cite, code, dfn, em, strong, th, var {
+          font-style: normal;
+          font-weight: normal;
+        }
+
+         ol, ul {
+          list-style: none;
+        }
+
+         caption, th {
+          text-align: left;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+          font-size: 100%;
+          font-weight: normal;
+        }
+
+        q:before, q:after {
+          content: '';
+        }
+
+        abbr, acronym {
+          border: 0;
+          font-variant: normal;
+        }
+
+        /* to preserve line-height and selector appearance */
+        sup {
+          vertical-align: text-top;
+        }
+
+        sub {
+          vertical-align: text-bottom;
+        }
+
+        input, textarea, select {
+          font-family: inherit;
+          font-size: inherit;
+          font-weight: inherit;
+        }
+
+        /*to enable resizing for IE*/
+        input, textarea, select {
+          *font-size: 100%;
+        }
+
+        /*because legend doesn't inherit in IE */
+        legend {
+          color: #000;
+        }
+
+        /* YUI CSS Detection Stamp */
+        #yui3-css-stamp.cssreset {
+          display: none;
+        }
+
+        .top-10 {
+          margin-top: 10px;
+        }
+
+
+        h1, h2, h3 {
+          font-family: 'Open Sans Condensed', sans-serif;
+          font-weight: 700;
+          display: inline-block;
+          margin: 15px 0 10px 0;
+        }
+        h1 .light, h1.light, h2 .light, h2.light, h3 .light, h3.light {
+          font-weight: 300;
+        }
+
+        h1 {
+          font-size: 64px;
+          line-height: 60px;
+        }
+
+        h2 {
+          font-size: 32px;
+        }
+
+        @media (min-width: 768px) {
+          h1 {
+            line-height: normal;
+          }
+        }
+        body {
+          font-family: 'Open Sans', sans-serif;
+          font-weight: 400;
+          font-size: 14px;
+        }
+
+        strong {
+          font-weight: 800;
+        }
+
+        .bar {
+          font-size: 16px;
+          font-family: 'Open Sans Condensed', sans-serif;
+          font-weight: 700;
+          padding: 5px 0;
+          border-bottom: 1px solid #aaa;
+        }
+
+        .bar .light {
+          font-weight: 300;
+        }
+
+        p {
+          margin: 20px 0 10px 0;
+        }
+
+
+        #main {
+          padding: 20px 14px 60px 14px;
+          position: relative;
+          min-height: 200vh;
+          overflow-x: hidden;
+        }
+        @media (min-width: 500px) {
+          #main {
+            padding: 40px 20px;
+          }
+          .bar {
+            font-size: 18px;
+          }
+        }
+        @media (min-width: 768px) {
+          #body {
+            margin-left: 100px;
+          }
+        }
+        p {
+          line-height: 20px;
+          margin: 25px 0;
+          max-width: 400px;
+          text-align: justify;
+        }
+
+        .license,
+        .credits,
+        .github {
+          font-size: 12px;
+          margin: 20px 0;
+        }
+
+        .license p,
+        .credits p,
+        .github p {
+          margin: 0 0 15px 0;
+          text-align: left;
+        }
+
+        .social-plugins {
+          margin-top: 10px;
+          min-height: 50px;
+        }
+
+        .social-plugins > div,
+        .social-plugins > iframe {
+          vertical-align: top;
+          display: inline-block;
+          margin-right: 10px !important;
+        }
+      </style>
+  </head>
+  <body>
+    <!--<div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/sv_SE/sdk.js#xfbml=1&version=v2.0";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>-->
+    
+
+    <div id="main">
+      <div class="bar">
+        CEMENTTRAMPOLIN
+        <span class="light">/ Litteraturens ände</span>
+      </div>
+      <div id="body">
+
+        <!-- <h1 class="light">Biografi</h1> -->
+        <!--
+        <div class="social-plugins">
+          <div class="fb-share-button" data-href="" data-layout="box_count"></div>
+          <a class="twitter-share-button" href="https://twitter.com/share" data-count="vertical">Tweet</a>
+          <div class="g-plus" data-action="share" data-annotation="vertical-bubble"></div>
+        </div>
+        -->
+        <p>
+          <strong>Livet är en</strong> cementtrampolin.
+          Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag själv hade byggt. Vi hade inte råd med fyra årstider. Vi hade inte råd med wikipedia på vårt internet. När jag masturberade fantiserade jag om en ostmacka. Vi hade inte råd med ljus i tunneln. Jag och mina syskon fick dela på familjens DNA-stege. Syrrans tama igelkott, blind på båda ögonen, klippt i örat, halt på vänster bakben, fick dubblera som toalettborste. Han hette Lucky. Vi begravde honom i mungipan på grannens Rottweiler. Vaknade jag upp utan erektion på julafton så hade jag inget att leka med. Vi köpte sju grundämnen. Vi byggde molekyler själva.
+        </p>
+        <p>
+          <strong>Jag hade två fina</strong> syskon. Pappa sa att två av fem är inte var så tokigt. Vi använde en av tvillingarna för reservdelar. Du inser att du är en bit från societén när din tolvåriga syster röker vid frukostbordet framför sina egna ungar. Syrran var okej. Förväxlade sina p-piller med valium. Fick 14 ungar. Kunde inte bry sig mindre.
+        </p>
+        <p>
+          <strong>Hela min familj</strong> arbetade i gruvan. Farfar var kontrollant - han sändes ned med avsikt att garantera säkerheten för kanariefåglarna.
+          Farfar jobbade där hela sitt liv. Han blev 16 år gammal.
+          Farmor var gammal. Hennes personnummer var 3.
+          Hon köpte inte längre gröna bananer.
+          Hon hade en trilobit som husdjur.
+          Hennes födelseland var Pangea.
+          När hon var ung var Burger King fortfarande en prins.
+          Deklarerade på runsten.
+          Förlorade körsbäret till Noak.
+          Sjukhuset hade slutat stödja hennes blodgrupp.
+          Hon refererade till de puniska krigen.
+          När Alexander Graham Bell uppfann telefonen hade han två missade samtal från farmor.
+          Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
+        </p>
+        <p>
+  <strong>Vid tre års ålder</strong> tog jag anställning. I gruvan arbetade vi åtta dagar i veckan.
+  Vi steg upp en timme innan vi hade gått och lagt oss.
+  Vi hade en sju minuters lunch där vi serverades varsin käftsmäll.
+  På söndagarna jobbade vi halvdag. Länsman låste då upp grindarna redan vid 19.40. Det var hyvens.
+  Bländade av solens sista strålar haltade vi barfota hem till barackerna 17 km bort. Inte sällan ställde vi då till med ett ordentligt gästabud - bark utblandat med bröd och skummande sejdlar fyllda till bredden med luft. Euforin fann inga gränser.
+</p>
+<p>
+  <strong>Barackerna var trånga.</strong> När grannen masturberade fick jag orgasm.
+  Möss fick gå på tå.
+  Min årliga slutlön var ingenting vilken betalades ut kvartalsvis.
+  Vi jobbade oss upp från extrem fattigdom till att äga ingenting alls.
+  Jag ville bli rik på hårt arbete. Men inte mitt eget.
+  Den enklaste vägen att skaffa en miljon är att börja med två.
+</p>
+<p>
+  <strong>Pappa fick sluta</strong> i gruvan. De genomförde urinprov. Pappa skrev sina svar i handen.
+  De fann spår av urin i hans whisky.
+  Pappa gillade sin whisky precis som sina kvinnor – tolvåriga och tillsammans med kola.
+  Hans lever var ett svart hål.
+  Så svart att polisen anklagade den för upplopp.
+  Så utarbetad att den anslöt sig till facket.
+  När alkohol hade årsstämma angav den pappa som ett konjunkturberoende.
+  När mamma lämnade var pappa förtvivlad - hon tog vinöppnare med sig.
+  Pappa gick på whisky-diet - förlorade tre dagar direkt.
+  Han botade baksmälla genom att pressa juicen ur en kvarting brännvin.
+  När jag själv läste om drogernas effekter blev jag förskräckt. Jag har inte läst sedan dess.
+  Alkohol är inte svaret, men den hjälper dig att glömma frågan.
+</p>
+<p><strong>1982 slutade pappa</strong> med både sprit och kvinnor. Det var de värsta 20 minutrarna i hans liv.
+  Hans nuvarande flickvän sa i sängen till honom att han var pervers. Pappa tyckte det var ganska stora ord för en nioåring.
+  Han fick göra flygpansljud för oralsex.
+  Nioåringar är instabila. Hon kunde banka på dörren i 45 minuter mitt i natten. Sedan tröttnade vanligtvis pappa och släppte ut henne.
+  Han hade haft otur med båda sina kvinnor, pappa. Den första lämnade honom. Den andra stannade kvar.
+</p>
+<p>
+  <strong>För att pappa skulle</strong> få ett jobb flyttade familjen. Till slut så hittade jag dem.
+  Pappa blev gangster. Pappa var hård. Han sov med en kudde under sin pistol.
+  När han skar lök grät löken.
+  Han kunde bygga en snögubbe utav regn.
+  Han kunde skära genom kniv med varmt smör.
+  Han hatade kokain. Men älskade lukten av det.
+  Vi kommer bli tvungna att göra hans kistlock barnsäkert.
+  Pappa visade sällan fysisk närhet. Det närmaste jag kom en klapp på axeln var vid fyra års ålder då pappa tappade en fläskkotlett i fontanellen på mig. Han kände sig smutsig efteråt.
+  Pappa hade få regler - <i>'Bli aldrig påkommen i sängen med en död flicka. Eller en levande pojke'</i>.
+  Pappa brukade säga, <i>'Min bäste herre, har du möjligtvis en liten slant över till en fattig, olycklig man utan jobb? Allt jag äger är denna pistol'</i>.
+  Pappa spenderade sin inkomst på sprit och kvinnor. Resten slösade han bort.
+  Luften var ren och sexet smutsigt. Numer verkar det omvända gälla.
+</p>
+<p>
+  <strong>Pappas släkt var skriande</strong> fattig. Mammas bedövande rik.
+  Jag träffade aldrig mamma. Enligt pappa drunknade mamma i en önskebrunn.
+  Morfar och mormor var lyckliga i 20 år. Sedan träffades de.
+  Förälskelse är ett tillstånd av temporärt vansinne som botas med giftermål.
+  Ett bröllop är en begravning där du kan lukta på dina egna blommor.
+  Men de höll ihop. Mormor tyckte att människor i rollen som makar skulle hålla ihop livet i genom precis som duvor eller katoliker.
+</p>
+<p>
+  <strong>Mormor var en</strong> hängiven klasskämpe. Hon kämpade för ökade klyftor.
+  Mormor kände sig besvärad över att behöva åka i samma fordon som sin chaufför.
+  Hon kedjade fast sig vid bordssilvret när städerskan kom.
+  Hennes mjukaste personlighetsdrag var ett porslinöga.
+  Hon hade ett känsolmässigt djup i paritet med brevpapper.
+  Mormor läste bibeln för mig. Den kändes overklig - jag menar, en långhårig hippie med tolv vänner? 
+  Doktorn förklarade de goda nyheterna först. Mormor skulle få en sjukdom uppkallad efter sig.
+  <i>'Hur länge har jag kvar?'</i>. Doktorn sa <i>'10'</i>. <i>'10 vad? Dagar, månader, år?'</i>. Doktorn sa, <i>'...9, 8, 7...'</i>.
+</p>
+<p>
+  <strong>Morfar var mer</strong> förlåtande. Han ansåg att alla hade något att bidra med. Även de med mindre hjärnor.
+  Morfar var i motsats till mormor en obotlig filantrop. Han förklarade att några av arbetarna hade en intelligenskvot som översteg rumstemperatur. Ibland tog morfar med en arbetare in till byn för att löpnummer-märka den. Det var ett givande alternativ till arbetarens vanliga fritidssysselsättningar - promenera planlöst, skjuta katter, tatuera in nyckelpigor i svanken, besöka abortkliniken, sutta på avgasrör, bestiga sina syskon.
+</p>
+<p>
+
+  <strong>Jag gillade morfar.</strong> Han dog stilla i sin sömn. Så vill jag också dö. Inte i ångestfullt skrikandes som passagerarna i hans bil.
+  Kirurgen mötte mig i korridoren. <i>'Det är en otäck smäll. Din morfar är illa däran. Du kommer behöva mata honom. Duscha honom'</i>. Tårarna började rinna. <i>'Du blir tvungen att lägga honom. Följa med honom på toaletten'</i>. Jag grät. <i>'Jag bara driver med dig'</i>, sa kirurgen, <i>'han är död'</i>.
+</p>
+<p>
+  <strong>Morfar lärde mig</strong> om blommor och bin. <i>'Grabben, du vet, sex vi den här åldern är som att spela biljard med ett rep. Men jag har haft mitt. Gudarna har välsignat mig med många saker i det här livet - intellekt som en jävla rymdkirurg, humor som Eddie Murphy och en baguett som en boaorm'</i>. Hans tunga kunde ta ett strykjärn till crescendo, så delikat att han kunde räkna årsringarna i mormors broskvävnad. Allt handlar om mannen i båten. Det enda jag inte kunde prata med morfar var politik - <i>'Morfar, vilket parti röstade du på förra valet?'</i>. <i>'Amen, vaa i helvete - du vet ju att det är personligt. Jag pratar inte om personliga saker har jag sagt. Hur som helst, jag höll på att pirra granfrun i baken när...'</i>.
+</p>
+<p>
+  <strong>Efter flytten fick</strong> vi börja skolan. Skolan i stan var tuff.
+  Jag åkte upp till rektorn för något jag inte gjort - jag sprang inte tillräckligt fort.
+  Jag blev orättvist anklagad för att ha hävdat att halva lärarkåren var idioter. Jag sa att halva kåren <i>inte</i> var idioter.
+  Rektorn hade ett rättspatos i storleksordningen en ekorrpenis.
+  Skolan hävdade att jag hade en hjärna som Einstein - död sedan -55.
+  Jag hade problem med koncentrationen. Jag hade ingen.
+  Pappa sa att den enda bokstavskombination jag inte fått var 'IQ'.
+</p>
+<p>
+  <strong>Jag kände mig</strong> som en dömd pedofil som försökte försäkra sin glassbil.
+  De flesta pedofiler verkar ha skägg och glasögon. Jag kan inte förstå varför barn finner det så sexigt?
+  Enda gång jag var intresserad av läraren var när han stod i brand.
+  Bygg en man en lägereld och han är varm för en dag. Sätt eld på en man och han är varm för resten av sitt liv.
+  Jag var lika förvirrad som ett spädbarn i en topless-bar.
+  Jag fick lära mig att en miljon apor som bankar på varsitt tangentbord förr eller senare kommer producera Shakespeares samlade verk. Nu, tack vare internet, vet vi att det inte är sant.
+  Jag fick lite gehör för mina egna funderingar - Hade en miljon Shakespeares kunnat skriva som en apa? Varför bar kamikaze-piloter hjälm? Personen som uppfann hjulet var en idiot. Den som uppfann följande tre måste ha varit ett geni?
+  Biologilärarinnan hade en anka. Jag sa <i>'Oj, det var den fulaste gris jag någonsin sett.'</i>. Hon sa, <i>'Gris?! Det är en anka!'</i>. <i>'Det ser jag. Det är honom jag talar med'</i>
+</p>
+<p>
+  <strong>Jag var ingen</strong> teoretiker. Jag var en av dem som var tvungen att själv kissa på elstängslet.
+  Jag läste ordboken. Visar sig, zebran gjorde det.
+  Jag gillade rymden. Tänker köpa en bok av den där rullstolsbundne killen.
+  Jag gillade naturen. Var ofta ute i grönskan och letade pornografi.
+  Jag var antagligen dysslikticker.
+  Jag gillade de stora antika litterära äventyren med hjältar som Klitoris och Pearl Habour.
+  Jag minns att Dolly, det klonade fåret, själv blev befruktad på det traditionella sättet - genom fårahedern.
+  <i>'Jag fixade byns kyrktak men ingen kallade mig Tim takfixaren. Sedan byggde jag byns mur men ingen kallade mig Tim murbyggaren. Sedan knullade jag ett får...'</i>.
+  Man använder bara 10 % av hjärnan sa de. Vad använder man resterande 10 % till?
+</p>
+<p>
+  <strong>Jag tog musiklektioner.</strong> Jag sjöng så illa att döva vägrade läsa mina läppar.
+  När jag spelade triangel lät det som om två skelett kopulerade på ett plåttak.
+  Mitt flöjtspelande liknande något en katolsk präst skulle vissla på när han skändar en körpojke.
+  Det var mental tortyr som enbart algebra har rätt att tillfoga.
+  Jag kunde två låtar. Den ena var introt till 'Gudfadern' och den andra var det inte.
+  Cellon var mitt favoritinstrument. Den har ett sådant dystert läte. Det låter som någon som läser upp en sista önskan.
+</p>
+<p>
+  <strong>Jag blev hänvisad</strong> till en psykolog. Han sa att jag var utom allt hopp. Jag sa att jag ville ha ett andra utlåtande. Han sa, <i>'Okej, du är ful också'</i>. Han hade antagligen en poäng. Jag hade ansikte som en kollapsad lunga. Barnmoskan örfilade mamma när jag föddes. Jag föll från det fula trädet och slog i varenda gren på vägen ned. Jag hade sexappeal som en skolbussbrand. Pappa skämdes när han sålde mig på gatan. Han tyckte vi tog överpris.
+</p>
+<p>
+  <strong>En av mina</strong> bröder blev advokat - <i>'Säg inget till farmor, hon tror jag spelar piano i ett horhus'</i>.
+  En advokat är en människa som är din vän, din förtrogna tills dess du har bevisats pank.
+  Jag har aldrig sagt att advokater är boskap. Jag har sagt att de skall <i>behandlas</i> som boskap.
+  De borde vara mer som albino-noshörningar – sju kvar i Sarengeti, alla hanar.
+  Enda skillnaden mellan en överkörd advokat och en överkörd skunk är att någon faktiskt försökt väja för skunken.
+  Det tycks vara omöjligt att bli dömd för sodomi. Första hälften av nämndemännen tror inte att det är fysiskt möjligt och den andra uttövar det.
+</p>
+<p>
+  <strong>Jag var min</strong> låtsaskompis fjärdeval.
+  Jag har aldrig passat in. Jag befann mig på en nudistbeach i en duffeljacka.
+  Jag gillar inte människor. Jag är för kärnvapen.
+  Jag gillar djur. Speciellt i en god sås.
+  Jag ville vara någon. Så här i efterhand inser jag att jag borde varit mer specifik.
+  Min enda riktiga vän, var Ogge bagare. Jag visste att han var en polare för han kom upp till mig och sa <i>'Jag är en polare'</i>. Jag vet inte varför Ogge bagare kallades <i>'Ogge bagare'</i>. Någon jävla bagare var han inte.
+</p>
+<p> 
+  <strong>Under skolåren hoppade</strong> mina klasskamrater på allt som rörde sig. Men jag såg ingen anledning till att begränsa mig. Jag kommer ihåg min första kroppsliga relation. Av hur hennes kropp svarade på mina ömma smekningar kunde man nästan tro att hon var vid medvetande från toffsarna på fontanellen till taggen runt tån.
+  En kyss är en anställningsintervju på högsta våning för ett jobb i källaren.
+  Fritzl byggde en källare och höll en flicka inlåst i år. Det fick mig att må dåligt - jag är 36 och är inte i närheten av att kunna bygga en källare.
+</p>
+<p>
+  <strong>Ogge bagares pappa</strong> tog livet av sig. Vanligtvis gillar jag inte folk som tar genvägen hem.
+  Det slog över för honom när tåget var försenat. Han kastade sig på spåret. Dog av svält.
+  Vissa dagar är det knappt värt att gnaga sig igenom läderrämmarna.
+</p>
+<p>
+  <strong>Jag förlorade</strong> oskulden till Ogge bagares mamma. Hon slet av sig sina kläder som en nunna som försakar sina löften.
+  Hon var så fet att när hon sjöng var det över för alla.
+  Hon såg ut som en strandad val som hade ätit en strandad val.
+  Hennes skugga vägde två kilo.
+  Hon hade två små människor i omloppsbana.
+  När hennes telefon ringde på stan trodde folk att hon backade.
+  En kannibal hade fått andra klassens diabetes av att snaska på henne.
+  Hon var så stor att hennes frukosttallrik kom med en livräddare.
+  När hon gick förbi TVn så missade jag tre säsonger av Breaking bad.
+  Hon var hälften svensk, hälften amerikan och hälften italienare.
+  Jag fick rulla henne i mjöl för att hitta den våta fläcken.
+  Men hon luktade gott. Det väger upp. Det tog mig tre dagar att bestiga henne.
+  En av mina bärare gick vilse.
+  Vi fick sätta upp base camp innan toppförsöket.
+  Jag fick använda syrgas under akten.
+  Det var som att kasta in en trumpinne i en gymnastiksal.
+  Jag är inte mycket för one-night-stands. Jag tycker man skall lära känna en person innan man börjar utnyttja och förnedra dem.
+</p>
+<p>
+  <strong>Jag blev tillsammans</strong> med en fyra år äldre tjej på gatan. Jag hade kännt henne från innan dess hon blev oskuld. Hon bar kläder så tighta att man kunde se vad hon tänkte. Rumpa som hos en tioårig pojke. 
+  Hon sa efter första träffen, <i>'Jag har haft en fantastisk afton. Men det var inte den här'</i>. Hon hade en papegoja. Aset höll inte tyst i två sekunder. Fågeln däremot, var schyst. Hon sa att jag inte hade några problem att få henne att uppnå antiklimax. Jag undrar om hon någon gång fick en orgasm under de två år vi var tillsammans, eller om hon fejkade den där natten. Förspel är som hamburgare - tre minuter på varje sida. Hennes favoritposition i sängen var rygg mot rygg. Hon ringde och sa <i>'Kan du inte komma över. Det är ingen hemma'</i>. Jag åkte över. Mycket riktigt, det var ingen hemma.
+</p>
+<p>
+  <strong>Jag lärde mig</strong> att det finns en rad mekaniska ting för att stimulera kvinnor sexuellt. Den mest effektiva verkar vara en Mercedes 380SL. Jag närvarade vid ett möte för prematur ejakulation. Jag gick tidigt. Min flickvän blev gravid. Du är inte säker med kondom. Det är en myt - precis som växthuseffekten eller Romarriket. Min kompis hade kondom. Han blev överkörd av en buss. Det enda sättet att verkligen ha säker sex är att helt avstå - från att dricka.</p>
+<p>
+  <strong>Mitt sexliv är</strong> numer så uselt att jag kommer ställa upp i celebat-världsmästerskapen. Jag möter påven i semi. Jag kommer inte ens ihåg vem som blir bunden längre. Sista gången jag var inne i en kvinna var när besökte frihetsgudinnan. Jag försökte med telefonsex men mitt kön fastande i nummerbrickan.
+  Jag måste sätta ögonbindel på min högerhanden när jag masturberar. Jag vaxade delfinen i bilen häromdagen. Jag kommer inte göra det igen. Taxi-chauffören var vansinnig. Det verkar finnas två ämnen som damtidningarna fokuserar på: 1. <i>'Varför män är vidriga svin'</i>. 2. <i>'Hur du attraherar män'</i>.
+  Men vad hade världen varit utan män? En fridfull plats med glada, tjocka kvinnor? Sexkanalerna på TV gör oss inte till bättre människor, de vidgar inte våra horisonter och de sänds inte i tillräckligt hög upplösning. Sex är det vackraste och mest naturliga som pengar kan köpa. Jag skulle vilja vara den sista mannen på jorden, om inte annat så bara för att se om de där tjejerna ljög för mig.
+</p>
+<p>
+  <strong>Jag hade inte</strong> velat vara bisexuell. Jag hade inte stått ut med att bli nobbad av båda könen. De säger att sex mellan en man och en kvinna kan vara fantastiskt. Men jag tänker att det måste bli trångt.
+  Homofobi är den irrationella rädslan att tre filurer bryter sig in mitt i natten och dekorerar om. Om Michelangelo varit hetero så hade det sixtinska kapellet varit målat vitt med en roller. 
+</p>
+<p>
+  <strong>Pappa förstod att</strong> jag skolan inte var för mig. 
+  När jag fyllde nio tog pappa med mig för att cappa en golare. Om du önskar dig en katt be dina föräldrar om en elefant. Jag fick en kniv. Pappa la sin arm om mig. Han sa, <i>'Grabben, Charlie, var det? Du vet lådan där jag förvarar gräset? Under pistolen och tidningarna med de nakna flickorna, där ligger det något till dig'</i>. 
+  Det hade blivit vinter. Det var så kallt att jag såg en politiker med händerna i sina egna fickor. Det var så kallt att blottare fick beskriva sina delar muntligt. Väderprognosen för natten – mörk. Pappa satt gränsle över golaren och vevade med stålröret. Golaren var hal som en fuktig ål i maskinfett. Pappa var upptagen som en enarmad taxi-chaufför med flatlöss i en New York-korsning. Det blev kladdigt. Pappa sa, <i>'Du behöver inte alltid simma snabbare än hajen. Du behöver bara simma snabbare än den fete killen'</i>. Det hela påminde mycket om att älska med min flickvän - 10% upphetsning, 90% ångest.
+</p>
+
+
+<div class="github">
+  <h2 class="light">Tillägg?</h2>
+  <p>
+    Denna text kommer urvattnas över min döda kropp. Det kommer att vara skriande svårt att få in en mening. Två känns teoretiskt omöjligt. Bidrag på tre meningar kommer att avböjas av ren princip.  
+  </p>
+  <p>
+   Skicka request <a href="https://github.com/mookey/revelations" target="_blank">https://github.com/mookey/revelations</a>
+   <br/>
+  <a href="https://help.github.com/articles/using-pull-requests/" target="_blank">https://help.github.com/articles/using-pull-requests/</a>
+  </p>
+</div>
+
+
+
+
+<div class="credits">
+  <h2 class="light">Källförteckning</h2>
+  <ul>
+    <li>
+      <a href="http://open.spotify.com/track/3bFEBtHUzkKMyNwdJOwY9D" target="_blank">Anthony Jeselnik</a> - "My ex-girlfriend owned a parakeet…oh my god, that f**king thing would never shut up. But the bird was cool."
+    </li>
+    <li>
+      <a href="http://en.wikiquote.org/wiki/Emo_Philips" target="_blank">Emo Philips</a> - "My girlfriend said to me in bed the other night, 'You're a pervert'. I said to her, 'That's a big word for a girl of nine'", "My classmates would make out with anything that moved, but I never saw any reasons to limit myself", "I was with this girl other night and from the way she was responding to my skillful caresses, you would have sworn that she was conscious from the top of her head to the tag on her toes.", "My mother was like a sister to me, only we didn't have sex quite so often.", "I was the kid next door's imaginary friend.", "Some mornings, it's just not worth chewing through the leather straps."
+    </li>
+    <li>
+      <a href="https://www.youtube.com/watch?v=mVdY0_COf4o" target="_blank">Greg Giraldo</a>
+    </li>
+    <li>
+      <a href="http://simpsons.wikia.com/wiki/Adequate" target="_blank">Simpsons</a> - "Me granfather used to get sent down into th' mines to make sure it was safe fer th' canaries.", "Oh, there's so much I don't know about astrophysics. I wish I'd read that book by the wheelchair guy."
+    </li>
+    <li>
+      <a href="http://www.chucknorrisfacts.com/chuck-norris-top-50-facts" target="_blank">Chuck Norries facts</a>
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Bob_Monkhouse" target="_blank">Bob Monkhouse</a> - "I hade bad luck with both my wives. The first one left me and the second one didn't.", "When the doctor broke the news that I had cancer, I said 'Tell me straight, doc, how long do I have?'. He said, 'Ten...'. I said, 'Ten what? Years, months, weeks?'. He said, '9, 8, 7, ...'.", "I want to die peacefully in my sleep like my father, not screaming in terror like his passengers."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Steven_Wright" target="_blank">Steven Wright</a> - "If I ever had twins, I'd use one for parts.", "If you had a million Shakespeares, would they write like the monkey?", "I've just been reading the dictionary. Turns out the Zebra did it."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Henny_Youngman" target="_blank">Henny Youngman</a> - "I got two wonderful children - and two out of five ain't bad.", "I was so ugly when I was born, the doctor slapped my mother.", "I'm making a Jewish porno movie, it's 10 percent sex, 90 percent guilt.", "I was so horrified when I read about the effects of smoking that I gave up reading."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Rodney_Dangerfield" target="_blank">Rodney Dangerfield</a> - "My wife's favourite position is back to back", "One woman I was dating called and said, 'Come on over, there's nobody home'. I went over. Nobody was home.", "My wife and I were happy for 20 years. Then we met.", "When I was a kid my parents moved a lot. But I always found them."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Steve_Martin" target="_blank">Steve Martin</a> - "I believe that sex is the most beautiful, natural and wholesome thing that money can buy", "I'm not into that one-night thing. I think a person should get to know someone and even be in love with them before you use them and degrade them.", "First, the doctor gave me the good news: I was going to have a disease named after me."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Joan_Rivers" target="_blank">Joan Rivers</a> - "I have no sex appeal. I have to blindfold my vibrator",  "It's been so long since I made love, I can't remember who gets tied up", "A friend of mine confused her Valium with her birth control pills. She had 14 kids but didn't give a shit."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Woody_Allen" target="_blank">Woody Allen</a> - "I wonder if she actually had an orgasm in the two years we were married, or did she fake it that night?", "The last time I was inside a women was when I visited the Statue of Liberty"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Groucho_Marx" target="_blank">Groucho Marx</a> - "I knew Doris Day before she was a virgin.", "I had a wonderful evening - but this wasn't it.", "I worked my up from nothing to a state of extreme poverty."
+    </li>
+    <li>
+      <a href="http://www.laughfactory.com/jokes/yo-momma-jokes" target="_blank">Yo mama</a>
+    </li>
+    <li>
+      <a href="http://metro.co.uk/2013/03/07/frankie-boyles-top-10-controversial-gags-from-katie-price-to-madeleine-mccann-3530889/" target="_blank">Frankie Boyle</a>
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Oscar_Wilde" target="_blank">Oscar Wilde</a> - "Work is the curse of the drinking classes."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/P._J._O%27Rourke" target="_blank">P.J. O'Rourke</a> - "There are a number of mechanical devices which increase sexual arousal, particularly in women. Chief among these is the Mercedes 380SL convertible"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Bill_Maher" target="_blank">Bill Maher</a> - "The cable TV sex channels don't expand our horizons, don't make us better people, and don't come in clearly enough.", "Dolly the cloned sheep got pregnant the old-fashioned, conventional way - by the shephard."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Conan_O%27Brien" target="_blank">Conan O'Brien</a> - "George W. Bush has taken a urine test. But beforehand he wrote the answers on his hand."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Dave_Barry" target="_blank">Dave Barry</a> - "To judge from countless women's magazines, the two topics most interesting to women are 1) why all men are disgusting pigs and 2) how to attract men"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Rita_Mae_Brown" target="_blank">Rita Mae Brown</a> - "If Michelangelo had been heterosexual, the Sistine Chapel would have been painted basic white with a roller"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Guy_Bellamy" target="_blank">Guy Bellamy</a> - "My love life is so bad I'm taking part in the world celebacy championships. I meet the Pope in the semi-finals"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Richard_Lewis_%28comedian%29" target="_blank">Richard Lewis</a> - "The woman I broke up with is going round telling all her friends that I gave her an anticlimax"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Earl_of_Albemarle" target="_blank">Lord Albermarle</a> - "Who is this Greek chap Clitoris they're talking about?"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Red_Buttons" target="_blank">Red Buttons</a> - "I went to a meeting for premature ejaculators. I left early"
+    </li>
+    <li>
+      <a href="http://www.chortle.co.uk/comics/c/433/clyde_west" target="_blank">Clyde West</a> - "I had a wank in the car the other day. I won't be doing that again. The cab driver was furious"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/George_Burns" target="_blank">George Burns</a> - "Sex at 93 is like playing billiards with a rope"
+    </li>
+    <li>
+      Brian Johnson - "A kiss is an application on the top floor for a job in the basement"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Dean_Martin" target="_blank">Dean Martin</a> - "Last night she was banging on my door for forty-five minutes - but I wouldn't let her out."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Wendy_Cope" target="_blank">Wendy Cope</a> - "The day he moved out was terrible - that evening she went through hell. His absence wasn't a problem but the corkscrew had gone as well."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Ambrose_Bierce" target="_blank">Ambrose Bierce</a> - "Love is temporary insanity curable by marriage."
+    </li>
+    <li>
+      <a href="https://twitter.com/rubetime" target="_blank">Bob Rubin</a> - "Condoms aren't completely safe. A friend of mine was wearing one and he got hit by a bus."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Les_Dawson" target="_blank">Les Dawson</a> - "Our terraced house was so small the mice walked about on their back legs."
+    </li>
+    <li>
+      Linda Herskovic - "The walls of my apartment are so thin that when my neighbors have sex, I have an orgasm"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/P._G._Wodehouse" target="_blank">P.G. Wodehouse</a> - "He's as slippery as an eel that's been rubbed all over with axle-grease."
+    </li>
+    <li>
+      Greta Garbage - "You you're trailer trash when you allow your 12-year-old daughter to smoke at the dinner table in front of all her kids."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Peter_Benchley" target="_blank">Peter Benchley</a> - "You don't have to swim faster than the shark, just faster than the guy next to you."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Damon_Runyon" target="_blank">Damon Runyon</a> - "He is a very hard guy, indeed. In fact, the softest thing about him is his front teeth."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Terry_Pratchett" target="_blank">Terry Pratchett</a> - "Build a man a fire and he'll be warm for a day. Set a man on fire and he'll be warm for the rest of his life."
+    </li>
+    <li>
+      <a href="http://fr.wikipedia.org/wiki/Jacques_S%C3%A9gu%C3%A9la" target="_blank">Jacques Seguela</a> - "Don't tell my mother I work in a advertising agency. She thinks I play the piano in a whorehouse."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Sir_Les_Patterson" target="_blank">Sir Les Patterson</a> - "I'm as busy as a one armed taxi-driver with crabs."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Marty_Allen" target="_blank">Marty Allen</a> - "Kids, if you want a kitten, start out asking your parents for a hourse."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Alan_Bennett" target="_blank">Allen Bennett</a> - "The dog is one species I wouldn't mind seeing vanish from the face of the earth. I wish they were like the White Rhino - six of them left in the Serengeti National Park, and all males."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/George_Carlin" target="_blank">George Carlin</a> - "Weather forecast for tonight: dark."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Bob_Hope" target="_blank">Bob Hope</a> - "It's so cold I saw politician with his hands in his own pockets."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/David_Letterman" target="_blank">David Letterman</a> - "It's so cold in New York City that flashers are just describing themselves."
+    </li>
+    <li>
+      Daniel Liebert - "The only way I'd find a waxwork museum interesting is if it was set on fire."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Irene_Thomas" target="_blank">Irene Thomas</a> - "The cello is not one of my favourite instruments. It has such a lugubrious sound, like someone reading a will."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Thomas_Beecham" target="_blank">Thomas Beecham</a> - "A harpsichord sounds like two skeletons copulating on a corrugated tin roof."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Ulysses_S._Grant" target="_blank">Ulysses S. Grant</a> - "I know only two tunes. One of them is 'Yankee Doodle', and other isn't."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel Proust</a> - "Fauré's music sound like the kind of music a pederast might hum when raping a choirboy."
+    </li>
+    <li>
+      Jed Larson - "When she sings, deaf people refuse to watch her lips move."
+    </li>
+    <li>
+      <a href="http://fr.wikipedia.org/wiki/Paul_de_Saint-Victor" target="_blank">Paul de Saint-Victor</a> - "The music of Wagner imposes mental tortures that only algebra has a right to inflict."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Hunter_S._Thompson" target="_blank">Hunter S. Thompson</a> - "The rock music business is a cruel and shallow trench, a long plastic hallway where thiefs and pimps run free, and good men lie like dogs. There is also a negative side."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Fred_Allen" target="_blank">Fred Allen</a> - "You can take all the sincerity in Hollywood, place it in the navel of a fruit fly and still have room for three caraway seedes and a producer's heart."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Ken_Russell" target="_blank">Ken Russell</a> - "A gorilla in boxing gloves wielding a pair of garden shears could have done a better job of editing The Boyfriend."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Lily_Tomlin" target="_blank">Lily Tomlin</a> - "I always wanted to somebody, but I should have been more specific."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Vladimir_Nabokov" target="_blank">Vladimir Nabokov</a> - "Learning English was like moving from one darkened house to another on a starless night during a strike of candlemakers and torchbearers."
+    </li>
+    <li>
+      Gene Perret - "You have a brain like Einstein's - dead since 1955."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Sid_Caesar" target="_blank">Sid Caesar</a> - "The guy who invented the first wheel was an idiot, but the guy who invented the other three, now he was a genius."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Jack_Dee" target="_blank">Jack Dee</a> - "A friend of mine was so fed up with the train delays and cancellations that he threw himself onto the track. Died of exposure."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Benjamin_Disraeli" target="_blank">Benjamin Disraeli</a> - "Mr. Speaker, I withdraw my statement that half of the cabinet are asses - half the cabinet are not asses."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Edwin_Edwards" target="_blank">Edwin E. Edwards</a> - "The cardinal rule of politics: never get caught in bed with a dead girl or a live boy."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Winston_Churchill" target="_blank">Winston Churchill</a> - "It is impossible to obtains a conviction for sodomy from an English jury. Half of them don't believe that it can physically be done, and the other half is doing it."
+    </li>
+    <li>
+      Robin Hall - "Lawyers believe a man is innocent until proven broke."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Danny_Bhoy" target="_blank">Danny Bhoy</a> - "Hello, I'm a convicted paedophile looking to insure my ice-cream van..."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Damon_Wayans" target="_blank">Damon Wayans</a> - "My friend Larry's in jail now. He got 25 years for something he didn't do. He didn't run fast enough."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Andrew_Lloyd_Webber" target="_blank">Andrew Lloyd Webber</a> - "The quickest way to make a million in musical theatre is to start with two million."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/George_Raft" target="_blank">George Raft</a> - "I must have blown a fortune during my career. Part of the loot went on booze, part on horses and part on women. The rest I spent foolishly."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Roy_%27Chubby%27_Brown" target="_blank">Roy Chubby Brown</a> - "We were so poor we couldn't even afford a proper lavatory brush. We had to tie my pet hedgehog to a stick and tell him to hold his breath."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Frank_McCourt" target="_blank">Frank McCourt</a> - "We were so poor that if we woke up on Christmas day without an erection, we had nothing to play with."
+    </li>
+    <li>
+      Martin Latham - "'Please Sir', pleaded the stranger, 'would you be so kind as to help a poor unfortunate fellow who is hungry and can't find work? All I have in the world is this gun.'"
+    </li>
+    <li>
+      Howard Nordberg - "Life is a cement trampoline."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Raymond_Chandler" target="_blank">Raymond Chandler</a> - "He had a face like collapsed lung."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Paul_O%27Grady" target="_blank">Paul O'Grady</a> - "I'm on so many pills now, I need a childproof lid my coffin."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/W._C._Fields" target="_blank">W.C. Fields</a> - "The health insurance doctor has refused to renew my health policy. The nefarious quack claims he found urine in my whisky."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Eddie_Condon" target="_blank">Eddie Condon</a> - "To cure hangover, take the juice of two quarts of whisky."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Bobby_Collins_%28comedian%29" target="_blank">Bobby Collins</a> - "She was so huge she had three skinny ladies orbiting her."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Tommy_Cooper" target="_blank">Tommy Cooper</a> - "I'm on a whisky diet. I've lost three days already."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Bill_Dana_%28comedian%29" target="_blank">Bill Dana</a> - "I'm so old, my blood type is discontinued."
+    </li>
+    <li>
+      Lara Bliss - "They say you only use ten percent of your brain. What about the other ten percent?"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Ronnie_Shakes" target="_blank">Ronnie Shakes</a> - "I always wanted to be the last guy on earth, just to see if any of those women were lying to me."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Eddie_Cantor" target="_blank">Eddie Cantor</a> - "A wedding is a funeral where you can smell your own flowers."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Robin_Williams" target="_blank">Robin Williams</a> - "God gave men both a penis and a brain, but only enough blood supply to run one at a time"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Peter_De_Vries" target="_blank">Peter de Vries</a> - "She tore her clothes off like a nun forsaking her woes"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Kevin_Meaney" target="_blank">Kevin Meaney</a> - "I tried phone sex once. Got my penis stuck in the nine"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Victoria_Wood" target="_blank">Victoria Wood</a> - "Foreplay is like beefburgers - three minutes on each side", "I don't fit in. I'm like the only one in a nudist colony with a duffel coat."
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Tom_Ammiano" target="_blank">Tom Ammiano</a> - "Homophobia is the irrational fear that three fags will break into your house and redecorate it against your will"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Nicole_Hollander" target="_blank">Nicole Hollander</a> - "Can you imagine a world without men? No crime and lots of happy, fat women"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Margaret_Smith_%28comedian%29" target="_blank">Margaret Smith</a> - "I hate people. People make me pro-nuclear"
+    </li>
+    <li>
+      <a href="http://en.wikipedia.org/wiki/Wendy_Liebman" target="_blank">Wendy Liebman</a> - "The only way to have really safe sex is to abstain. From drinking"
+    </li>
+  </ul>
+</div>
+
+</div>
+  </div>
+    </div>
+    <script>
+      /*window.GoogleAnalyticsObject = 'ga';
+      window.ga = { q: [['create', 'UA-51719559-1', 'paper.se'], ['send', 'pageview']], l: Date.now() };*/
+
+
+      /**
+      window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
+      */
+
+    </script>
+    <!--<script src="https://apis.google.com/js/platform.js" async defer>
+      {lang: 'sv'}
+    </script>-->
+      
+  </body>
+</html>

@@ -1,28 +1,26 @@
-
-<p>
-    <strong>Livet är en</strong> cementtrampolin.
-Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag själv hade byggt. Vi hade inte råd med fyra årstider. Vi hade inte råd med wikipedia på vårt internet. När jag masturberade fantiserade jag om en ostmacka. Vi hade inte råd med ljus i tunneln. Jag och mina syskon fick dela på familjens DNA-stege. Syrrans tama igelkott, blind på båda ögonen, klippt i örat, halt på vänster bakben, fick dubblera som toalettborste. Han hette Lucky. Vi begravde honom i mungipan på grannens Rottweiler. Vaknade jag upp utan erektion på julafton så hade jag inget att leka med. Vi köpte sju grundämnen. Vi byggde molekyler själva.
-</p>
-<p>
-<strong>Jag hade två fina</strong> syskon. Pappa sa att två av fem är inte var så dåligt. Vi använde en av tvillingarna för reservdelar. Du inser att du är en bit från societén när din tolvåriga syster röker vid frukostbordet framför sina egna ungar. Syrran var okej. Förväxlade sina p-piller med valium. Fick 14 ungar. Kunde inte bry sig mindre.
-</p>
-
-<p>
-  <strong>Hela min familj</strong> arbetade i gruvan. Farfar var kontrollant - han sändes ned med avsikt att garantera säkerheten för kanariefåglarna.
-  Farfar jobbade där hela sitt liv. Han blev 16 år gammal.
-  Farmor var gammal. Hennes personnummer var 3.
-  Hon köpte inte längre gröna bananer.
-  Hon hade en trilobit som husdjur.
-  Hennes födelseort var Pangea.
-  När hon var ung var Burger King fortfarande en prins.
-  Deklarerade på runsten.
-  Förlorade körsbäret till Noak.
-  Sjukhuset hade slutat stödja hennes blodgrupp.
-  Hon refererade till de puniska krigen.
-  När Alexander Graham Bell uppfann telefonen hade han två missade samtal från farmor.
-  Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
-</p>
-<p>
+        <p>
+          <strong>Livet är en</strong> cementtrampolin.
+          Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag själv hade byggt. Vi hade inte råd med fyra årstider. Vi hade inte råd med wikipedia på vårt internet. När jag masturberade fantiserade jag om en ostmacka. Vi hade inte råd med ljus i tunneln. Jag och mina syskon fick dela på familjens DNA-stege. Syrrans tama igelkott, blind på båda ögonen, klippt i örat, halt på vänster bakben, fick dubblera som toalettborste. Han hette Lucky. Vi begravde honom i mungipan på grannens Rottweiler. Vaknade jag upp utan erektion på julafton så hade jag inget att leka med. Vi köpte sju grundämnen. Vi byggde molekyler själva.
+        </p>
+        <p>
+          <strong>Jag hade två fina</strong> syskon. Pappa sa att två av fem är inte var så tokigt. Vi använde en av tvillingarna för reservdelar. Du inser att du är en bit från societén när din tolvåriga syster röker vid frukostbordet framför sina egna ungar. Syrran var okej. Förväxlade sina p-piller med valium. Fick 14 ungar. Kunde inte bry sig mindre.
+        </p>
+        <p>
+          <strong>Hela min familj</strong> arbetade i gruvan. Farfar var kontrollant - han sändes ned med avsikt att garantera säkerheten för kanariefåglarna.
+          Farfar jobbade där hela sitt liv. Han blev 16 år gammal.
+          Farmor var gammal. Hennes personnummer var 3.
+          Hon köpte inte längre gröna bananer.
+          Hon hade en trilobit som husdjur.
+          Hennes födelseland var Pangea.
+          När hon var ung var Burger King fortfarande en prins.
+          Deklarerade på runsten.
+          Förlorade körsbäret till Noak.
+          Sjukhuset hade slutat stödja hennes blodgrupp.
+          Hon refererade till de puniska krigen.
+          När Alexander Graham Bell uppfann telefonen hade han två missade samtal från farmor.
+          Farmor var som en mor till mig. Men vi hade inte sex lika ofta.
+        </p>
+        <p>
   <strong>Vid tre års ålder</strong> tog jag anställning. I gruvan arbetade vi åtta dagar i veckan.
   Vi steg upp en timme innan vi hade gått och lagt oss.
   Vi hade en sju minuters lunch där vi serverades varsin käftsmäll.
@@ -53,8 +51,8 @@ Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag
 </p>
 <p><strong>1982 slutade pappa</strong> med både sprit och kvinnor. Det var de värsta 20 minutrarna i hans liv.
   Hans nuvarande flickvän sa i sängen till honom att han var pervers. Pappa tyckte det var ganska stora ord för en nioåring.
-  Nioåringar är instabila. Hon kunde banka på dörren i 45 minuter mitt i natten. Sedan tröttnade vanligtvis pappa och släppte ut henne.
   Han fick göra flygpansljud för oralsex.
+  Nioåringar är instabila. Hon kunde banka på dörren i 45 minuter mitt i natten. Sedan tröttnade vanligtvis pappa och släppte ut henne.
   Han hade haft otur med båda sina kvinnor, pappa. Den första lämnade honom. Den andra stannade kvar.
 </p>
 <p>
@@ -91,7 +89,6 @@ Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag
 </p>
 <p>
   <strong>Morfar var mer</strong> förlåtande. Han ansåg att alla hade något att bidra med. Även de med mindre hjärnor.
-  Jag har fina minnen från mina morföräldrars sommarställe. I den nalkande gryningen satt morfar med knäckt bössa på trädäcket och såg morgonsolen sakta stiga över rapsfält och arbetares krökta ryggar.
   Morfar var i motsats till mormor en obotlig filantrop. Han förklarade att några av arbetarna hade en intelligenskvot som översteg rumstemperatur. Ibland tog morfar med en arbetare in till byn för att löpnummer-märka den. Det var ett givande alternativ till arbetarens vanliga fritidssysselsättningar - promenera planlöst, skjuta katter, tatuera in nyckelpigor i svanken, besöka abortkliniken, sutta på avgasrör, bestiga sina syskon.
 </p>
 <p>
@@ -128,7 +125,7 @@ Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag
   Jag gillade naturen. Var ofta ute i grönskan och letade pornografi.
   Jag var antagligen dysslikticker.
   Jag gillade de stora antika litterära äventyren med hjältar som Klitoris och Pearl Habour.
-  Jag minns, Dolly, det klonade fåret, blev själv befruktad på det traditionella sättet - genom fårahedern.
+  Jag minns att Dolly, det klonade fåret, själv blev befruktad på det traditionella sättet - genom fårahedern.
   <i>'Jag fixade byns kyrktak men ingen kallade mig Tim takfixaren. Sedan byggde jag byns mur men ingen kallade mig Tim murbyggaren. Sedan knullade jag ett får...'</i>.
   Man använder bara 10 % av hjärnan sa de. Vad använder man resterande 10 % till?
 </p>
@@ -149,7 +146,6 @@ Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag
   Jag har aldrig sagt att advokater är boskap. Jag har sagt att de skall <i>behandlas</i> som boskap.
   De borde vara mer som albino-noshörningar – sju kvar i Sarengeti, alla hanar.
   Enda skillnaden mellan en överkörd advokat och en överkörd skunk är att någon faktiskt försökt väja för skunken.
-  100 advokater på botten av en sjö är vad man brukar kalla en bra grund att stå på.
   Det tycks vara omöjligt att bli dömd för sodomi. Första hälften av nämndemännen tror inte att det är fysiskt möjligt och den andra uttövar det.
 </p>
 <p>
@@ -190,14 +186,14 @@ Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag
   Jag är inte mycket för one-night-stands. Jag tycker man skall lära känna en person innan man börjar utnyttja och förnedra dem.
 </p>
 <p>
-  <strong>Jag blev tillsammans</strong> med en fyra år äldre tjej på gatan. Jag hade kännt henne från innan hon blev oskuld. Hon bar kläder så tighta att man kunde se vad hon tänkte. Rumpa som hos en tioårig pojke. 
+  <strong>Jag blev tillsammans</strong> med en fyra år äldre tjej på gatan. Jag hade kännt henne från innan dess hon blev oskuld. Hon bar kläder så tighta att man kunde se vad hon tänkte. Rumpa som hos en tioårig pojke. 
   Hon sa efter första träffen, <i>'Jag har haft en fantastisk afton. Men det var inte den här'</i>. Hon hade en papegoja. Aset höll inte tyst i två sekunder. Fågeln däremot, var schyst. Hon sa att jag inte hade några problem att få henne att uppnå antiklimax. Jag undrar om hon någon gång fick en orgasm under de två år vi var tillsammans, eller om hon fejkade den där natten. Förspel är som hamburgare - tre minuter på varje sida. Hennes favoritposition i sängen var rygg mot rygg. Hon ringde och sa <i>'Kan du inte komma över. Det är ingen hemma'</i>. Jag åkte över. Mycket riktigt, det var ingen hemma.
 </p>
 <p>
-  <strong>Jag lärde mig</strong> att det finns en rad mekaniska ting för att stimulera kvinnor sexuellt. Den mest effektiva verkar vara en Mercedes 380SL. Jag närvarade vid ett möte för prematur ejakulation. Jag gick tidigt. Min flickvän blev gravid. Du är inte säker med kondom. Det är en myt - precis som växthuseffekten eller förintelsen. Min kompis hade kondom. Han blev överkörd av en buss. Det enda sättet att verkligen ha säker sex är att helt avstå - från att dricka.</p>
+  <strong>Jag lärde mig</strong> att det finns en rad mekaniska ting för att stimulera kvinnor sexuellt. Den mest effektiva verkar vara en Mercedes 380SL. Jag närvarade vid ett möte för prematur ejakulation. Jag gick tidigt. Min flickvän blev gravid. Du är inte säker med kondom. Det är en myt - precis som växthuseffekten eller Romarriket. Min kompis hade kondom. Han blev överkörd av en buss. Det enda sättet att verkligen ha säker sex är att helt avstå - från att dricka.</p>
 <p>
   <strong>Mitt sexliv är</strong> numer så uselt att jag kommer ställa upp i celebat-världsmästerskapen. Jag möter påven i semi. Jag kommer inte ens ihåg vem som blir bunden längre. Sista gången jag var inne i en kvinna var när besökte frihetsgudinnan. Jag försökte med telefonsex men mitt kön fastande i nummerbrickan.
-  Jag måste sätta ögonbindel på min högerhanden när jag masturberar. Jag vaxade delfinen i bilen häromdagen. Jag kommer inte göra det igen. Taxi-chauffören var vansinnig. Det verkar finnas två ämnen som damtidningarna fokuserar på: 1. 'Varför män är vidriga svin'. 2. 'Hur du attraherar män'.
+  Jag måste sätta ögonbindel på min högerhanden när jag masturberar. Jag vaxade delfinen i bilen häromdagen. Jag kommer inte göra det igen. Taxi-chauffören var vansinnig. Det verkar finnas två ämnen som damtidningarna fokuserar på: 1. <i>'Varför män är vidriga svin'</i>. 2. <i>'Hur du attraherar män'</i>.
   Men vad hade världen varit utan män? En fridfull plats med glada, tjocka kvinnor? Sexkanalerna på TV gör oss inte till bättre människor, de vidgar inte våra horisonter och de sänds inte i tillräckligt hög upplösning. Sex är det vackraste och mest naturliga som pengar kan köpa. Jag skulle vilja vara den sista mannen på jorden, om inte annat så bara för att se om de där tjejerna ljög för mig.
 </p>
 <p>
