@@ -42,6 +42,7 @@
   Hans lever var ett svart hål.
   Så svart att polisen anklagade den för upplopp.
   Så utarbetad att den anslöt sig till facket.
+  Den jobbade tjugofyra-sju 10 dagar i veckan, hade ingen lunch där den serverades en box på koddarna.
   När alkohol hade årsstämma angav den pappa som ett konjunkturberoende.
   När mamma lämnade var pappa förtvivlad - hon tog vinöppnare med sig.
   Pappa gick på whisky-diet - förlorade tre dagar direkt.
@@ -124,7 +125,7 @@
   Jag gillade rymden. Tänker köpa en bok av den där rullstolsbundne killen.
   Jag gillade naturen. Var ofta ute i grönskan och letade pornografi.
   Jag var antagligen dysslikticker.
-  Jag gillade de stora antika litterära äventyren med hjältar som Klitoris och Pearl Habour.
+  Jag gillade de stora antika litterära äventyren med hjältar som Klitoris.
   Jag minns att Dolly, det klonade fåret, själv blev befruktad på det traditionella sättet - genom fårahedern.
   <i>'Jag fixade byns kyrktak men ingen kallade mig Tim takfixaren. Sedan byggde jag byns mur men ingen kallade mig Tim murbyggaren. Sedan knullade jag ett får...'</i>.
   Man använder bara 10 % av hjärnan sa de. Vad använder man resterande 10 % till?
@@ -155,7 +156,7 @@
   Jag gillar djur. Speciellt i en god sås.
   En fin middag bör inkludera något som har dött.
   Jag ville vara någon. Så här i efterhand inser jag att jag borde varit mer specifik.
-  Min enda riktiga vän, var Ogge bagare. Jag visste att han var en polare för han kom upp till mig och sa <i>'Jag är en polare'</i>. Jag vet inte varför Ogge bagare kallades <i>'Ogge bagare'</i>. Någon jävla bagare var han inte.
+  Min enda riktiga vän, var Ogge-bagare. Jag visste att han var en polare för han kom upp till mig och sa <i>'Jag är en polare'</i>. Jag vet inte varför Ogge-bagare kallades <i>'Ogge-bagare'</i>. Någon jävla bagare var han inte.
 </p>
 <p> 
   <strong>Under skolåren hoppade</strong> mina klasskamrater på allt som rörde sig. Men jag såg ingen anledning till att begränsa mig. Jag kommer ihåg min första kroppsliga relation. Av hur hennes kropp svarade på mina ömma smekningar kunde man nästan tro att hon var vid medvetande från toffsarna på fontanellen till taggen runt tån.
@@ -163,12 +164,12 @@
   Fritzl byggde en källare och höll en flicka inlåst i år. Det fick mig att må dåligt - jag är 36 och är inte i närheten av att kunna bygga en källare.
 </p>
 <p>
-  <strong>Ogge bagares pappa</strong> tog livet av sig. Vanligtvis gillar jag inte folk som tar genvägen hem.
+  <strong>Ogge-bagares pappa</strong> tog livet av sig. Vanligtvis gillar jag inte folk som tar genvägen hem.
   Det slog över för honom när tåget var försenat. Han kastade sig på spåret. Dog av svält.
   Vissa dagar är det knappt värt att gnaga sig igenom läderrämmarna.
 </p>
 <p>
-  <strong>Jag förlorade</strong> oskulden till Ogge bagares mamma. Hon slet av sig sina kläder som en nunna som försakar sina löften.
+  <strong>Jag förlorade</strong> oskulden till Ogge-bagares mamma. Hon slet av sig sina kläder som en nunna som försakar sina löften.
   Hon var så fet att när hon sjöng var det över för alla.
   Hon såg ut som en strandad val som hade ätit en strandad val.
   Hennes skugga vägde två kilo.
@@ -191,7 +192,7 @@
   Hon sa efter första träffen, <i>'Jag har haft en fantastisk afton. Men det var inte den här'</i>. Hon sa att jag inte hade några problem att få henne att uppnå antiklimax. Jag undrar om hon någon gång fick en orgasm under de två år vi var tillsammans, eller om hon fejkade den där natten. Förspel är som hamburgare - tre minuter på varje sida. Hennes favoritposition i sängen var rygg mot rygg. Hon ringde och sa <i>'Kan du inte komma över. Det är ingen hemma'</i>. Jag åkte över. Mycket riktigt, det var ingen hemma.
 </p>
 <p>
-  <strong>Jag lärde mig</strong> att det finns en rad mekaniska ting för att stimulera kvinnor sexuellt. Den mest effektiva verkar vara en Mercedes 380SL. Jag närvarade vid ett möte för prematur ejakulation. Jag gick tidigt. Min flickvän blev gravid. Du är inte säker med kondom. Det är en myt - precis som växthuseffekten eller logiken i det periodiska systemet. Min kompis hade kondom. Han blev överkörd av en buss. Det enda sättet att verkligen ha säker sex är att helt avstå - från att dricka.
+  <strong>Jag lärde mig</strong> att det finns en rad mekaniska ting för att stimulera kvinnor sexuellt. Den mest effektiva verkar vara en Mercedes 380SL. Jag närvarade vid ett möte för prematur ejakulation. Jag gick tidigt. Min flickvän blev gravid. Du är inte säker med kondom. Det är en myt - precis som växthuseffekten eller kungen. Min kompis hade kondom. Han blev överkörd av en buss. Det enda sättet att verkligen ha säker sex är att helt avstå - från att dricka.
 </p>
 <p>
   <strong>Mitt sexliv är</strong> numer så uselt att jag kommer ställa upp i celebat-världsmästerskapen. Jag möter påven i semi. Jag kommer inte ens ihåg vem som blir bunden längre. Sista gången jag var inne i en kvinna var när besökte frihetsgudinnan. Jag försökte med telefonsex men mitt kön fastande i nummerbrickan.
@@ -207,5 +208,5 @@
   När jag fyllde nio tog pappa med mig för att cappa en golare. Om du önskar dig en katt be dina föräldrar om en elefant. Jag fick en kniv. Pappa la sin arm om mig. Han sa, <i>'Grabben, Charlie, var det? Du vet lådan där jag förvarar gräset? Under pistolen och tidningarna med de nakna flickorna, där ligger det något till dig'</i>. 
 </p>
 <p>
-  <strong>Det hade blivit</strong> vinter. Det var så kallt att jag såg en politiker med händerna i sina egna fickor. Det var så kallt att blottare fick beskriva sina delar muntligt. Samma år hade jag missat stora delar av den svenska sommaren - jag var i duschen. Sven sommar - börjar i mitten på juli, slutar 45 minuter senare. Väderprognosen för natten – mörk. Pappa satt gränsle över golaren och vevade med stålröret. Golaren var hal som en fuktig ål i maskinfett. Pappa var upptagen som en enarmad taxi-chaufför med flatlöss i en New York-korsning. Det blev kladdigt. Pappa sa, <i>'Du behöver inte alltid simma snabbare än hajen. Du behöver bara simma snabbare än den fete killen'</i>. Det hela påminde mycket om att älska med min flickvän - 10% upphetsning, 90% ångest.
+  <strong>Det hade blivit</strong> vinter. Det var så kallt att jag såg en politiker med händerna i sina egna fickor. Det var så kallt att blottare fick beskriva sina delar muntligt. Samma år hade jag missat stora delar av den svenska sommaren - jag var i duschen. Svensk sommar - börjar i mitten på juli, slutar 45 minuter senare. Väderprognosen för natten – mörk. Pappa satt gränsle över golaren och vevade med stålröret. Golaren var hal som en fuktig ål i maskinfett. Pappa var upptagen som en enarmad taxi-chaufför med flatlöss i en New York-korsning. Det blev kladdigt. Pappa sa, <i>'Du behöver inte alltid simma snabbare än hajen. Du behöver bara simma snabbare än den fete killen'</i>. Det hela påminde mycket om att älska med min flickvän - 10% upphetsning, 90% ångest.
 </p>
