@@ -3,7 +3,7 @@
   Mamma lämnade oss strax innan jag föddes. Jag föddes i en timmerstuga som jag själv hade byggt. Vi hade inte råd med fyra årstider. Vi hade inte råd med wikipedia på vårt internet. När jag masturberade fantiserade jag om en ostmacka. Vi hade inte råd med ljus i tunneln. Jag och mina syskon fick dela på familjens DNA-stege. Syrrans tama igelkott, blind på båda ögonen, klippt i örat, halt på vänster bakben, fick dubblera som toalettborste. Han hette Lucky. Vi begravde honom i mungipan på grannens Rottweiler. Vaknade jag upp utan erektion på julafton så hade jag inget att leka med. Vi köpte sju grundämnen. Vi byggde molekyler själva.
 </p>
 <p>
-  <strong>Jag hade två fina</strong> syskon. Pappa sa att två av fem är inte var så tokigt. Vi använde en av tvillingarna för reservdelar. Du inser att du är en bit från societén när din tolvåriga syster röker vid frukostbordet framför sina egna ungar. Syrran var okej. Förväxlade sina p-piller med valium. Fick 14 ungar. Kunde inte bry sig mindre.
+  <strong>Jag hade två fina</strong> syskon. Pappa sa att två av fem inte var så tokigt. Vi använde en av tvillingarna för reservdelar. Du inser att du är en bit från societén när din tolvåriga syster röker vid frukostbordet framför sina egna ungar. Syrran var okej. Förväxlade sina p-piller med valium. Fick 14 ungar. Kunde inte bry sig mindre.
 </p>
 <p>
   <strong>Hela min familj</strong> arbetade i gruvan. Farfar var kontrollant - han sändes ned med avsikt att garantera säkerheten för kanariefåglarna.
@@ -94,11 +94,11 @@
 </p>
 <p>
 
-  <strong>Jag gillade morfar.</strong> Han dog stilla i sin sömn. Så vill jag också dö. Inte i ångestfullt skrikandes som passagerarna i hans bil.
+  <strong>Jag gillade morfar.</strong> Han dog stilla i sin sömn. Så vill jag också dö. Inte ångestfullt skrikandes som passagerarna i hans bil.
   Kirurgen mötte mig i korridoren. <i>'Det är en otäck smäll. Din morfar är illa däran. Du kommer behöva mata honom. Duscha honom'</i>. Tårarna började rinna. <i>'Du blir tvungen att lägga honom. Följa med honom på toaletten'</i>. Jag grät. <i>'Jag bara driver med dig'</i>, sa kirurgen, <i>'han är död'</i>.
 </p>
 <p>
-  <strong>Morfar lärde mig</strong> om blommor och bin. <i>'Grabben, du vet, sex vi den här åldern är som att spela biljard med ett rep. Men jag har haft mitt. Gudarna har välsignat mig med många saker i det här livet – intellekt som en jävla rymdkirurg, humor som Eddie Murphy och en baguett som en boaorm'</i>. Hans tunga kunde ta ett strykjärn till crescendo, så delikat att han kunde räkna årsringarna i mormors broskvävnad. Allt handlar om mannen i båten. Det enda jag inte kunde prata med morfar var politik - <i>'Morfar, vilket parti röstade du på förra valet?'</i>. <i>'Amen, vaa i helvete - du vet ju att det är personligt. Jag pratar inte om personliga saker har jag sagt. Hur som helst, jag höll på att pirra granfrun i baken när...'</i>.
+  <strong>Morfar lärde mig</strong> om blommor och bin. <i>'Grabben, du vet, sex vi den här åldern är som att spela biljard med ett rep. Men jag har haft mitt. Gudarna har välsignat mig med många saker i det här livet – intellekt som en jävla rymdkirurg, humor som Eddie Murphy och en baguett som en boaorm'</i>. Hans tunga kunde ta ett strykjärn till crescendo, så delikat att han kunde räkna årsringarna i mormors broskvävnad. Allt handlar om mannen i båten. Det enda jag inte kunde prata med morfar om var politik - <i>'Morfar, vilket parti röstade du på förra valet?'</i>. <i>'Amen, vaa i helvete - du vet ju att det är personligt. Jag pratar inte om personliga saker har jag sagt. Hur som helst, jag höll på att pirra granfrun i baken när...'</i>.
 </p>
 <p>
   <strong>Efter flytten fick</strong> vi börja skolan. Skolan i stan var tuff.
@@ -117,7 +117,7 @@
   Jag var lika förvirrad som ett spädbarn i en topless-bar.
   Jag fick lära mig att en miljon apor som bankar på varsitt tangentbord förr eller senare kommer producera Shakespeares samlade verk. Nu, tack vare internet, vet vi att det inte är sant.
   Jag fick lite gehör för mina egna funderingar – Hade en miljon Shakespeares kunnat skriva som en apa? Varför bar kamikaze-piloter hjälm? Personen som uppfann hjulet var en idiot. Den som uppfann följande tre måste ha varit ett geni?
-  Biologilärarinnan hade en anka. Jag sa <i>'Oj, det var den fulaste gris jag någonsin sett.'</i>. Hon sa, <i>'Gris?! Det är en anka!'</i>. <i>'Det ser jag. Det är honom jag talar med'</i>
+  Biologilärarinnan hade en anka. Jag sa <i>'Oj, det var den fulaste gris jag någonsin sett.'</i>. Hon sa, <i>'Gris?! Det är en anka!'</i>. <i>'Det ser jag. Det är honom jag talar med'</i>.
 </p>
 <p>
   <strong>Jag var ingen</strong> teoretiker. Jag var en av dem som var tvungen att själv kissa på elstängslet.
