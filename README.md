@@ -90,7 +90,7 @@
 </p>
 <p>
   <strong>Morfar var mer</strong> förlåtande. Han ansåg att alla hade något att bidra med. Även de med mindre hjärnor.
-  Morfar var i motsats till mormor en obotlig filantrop. Han förklarade att några av arbetarna hade en intelligenskvot som översteg rumstemperatur. Ibland tog morfar med en arbetare in till byn för att löpnummer-märka den. Det var ett givande alternativ till arbetarens vanliga fritidssysselsättningar - promenera planlöst, skjuta katter, tatuera in nyckelpigor i svanken, besöka abortkliniken, sutta på avgasrör, bestiga sina syskon.
+  Morfar var i motsats till mormor en obotlig filantrop. Han förklarade att några av arbetarna hade en intelligenskvot som översteg rumstemperatur. Ibland tog morfar med en arbetare in till byn för att löpnummer-märka den. Det var ett givande alternativ till arbetarens vanliga fritidssysselsättningar – promenera planlöst, skjuta katter, tatuera in nyckelpigor i svanken, besöka abortkliniken, sutta på avgasrör, bestiga sina syskon.
 </p>
 <p>
 
@@ -98,7 +98,7 @@
   Kirurgen mötte mig i korridoren. <i>'Det är en otäck smäll. Din morfar är illa däran. Du kommer behöva mata honom. Duscha honom'</i>. Tårarna började rinna. <i>'Du blir tvungen att lägga honom. Följa med honom på toaletten'</i>. Jag grät. <i>'Jag bara driver med dig'</i>, sa kirurgen, <i>'han är död'</i>.
 </p>
 <p>
-  <strong>Morfar lärde mig</strong> om blommor och bin. <i>'Grabben, du vet, sex vi den här åldern är som att spela biljard med ett rep. Men jag har haft mitt. Gudarna har välsignat mig med många saker i det här livet - intellekt som en jävla rymdkirurg, humor som Eddie Murphy och en baguett som en boaorm'</i>. Hans tunga kunde ta ett strykjärn till crescendo, så delikat att han kunde räkna årsringarna i mormors broskvävnad. Allt handlar om mannen i båten. Det enda jag inte kunde prata med morfar var politik - <i>'Morfar, vilket parti röstade du på förra valet?'</i>. <i>'Amen, vaa i helvete - du vet ju att det är personligt. Jag pratar inte om personliga saker har jag sagt. Hur som helst, jag höll på att pirra granfrun i baken när...'</i>.
+  <strong>Morfar lärde mig</strong> om blommor och bin. <i>'Grabben, du vet, sex vi den här åldern är som att spela biljard med ett rep. Men jag har haft mitt. Gudarna har välsignat mig med många saker i det här livet – intellekt som en jävla rymdkirurg, humor som Eddie Murphy och en baguett som en boaorm'</i>. Hans tunga kunde ta ett strykjärn till crescendo, så delikat att han kunde räkna årsringarna i mormors broskvävnad. Allt handlar om mannen i båten. Det enda jag inte kunde prata med morfar var politik - <i>'Morfar, vilket parti röstade du på förra valet?'</i>. <i>'Amen, vaa i helvete - du vet ju att det är personligt. Jag pratar inte om personliga saker har jag sagt. Hur som helst, jag höll på att pirra granfrun i baken när...'</i>.
 </p>
 <p>
   <strong>Efter flytten fick</strong> vi börja skolan. Skolan i stan var tuff.
@@ -116,7 +116,7 @@
   Bygg en man en lägereld och han är varm för en dag. Sätt eld på en man och han är varm för resten av sitt liv.
   Jag var lika förvirrad som ett spädbarn i en topless-bar.
   Jag fick lära mig att en miljon apor som bankar på varsitt tangentbord förr eller senare kommer producera Shakespeares samlade verk. Nu, tack vare internet, vet vi att det inte är sant.
-  Jag fick lite gehör för mina egna funderingar - Hade en miljon Shakespeares kunnat skriva som en apa? Varför bar kamikaze-piloter hjälm? Personen som uppfann hjulet var en idiot. Den som uppfann följande tre måste ha varit ett geni?
+  Jag fick lite gehör för mina egna funderingar – Hade en miljon Shakespeares kunnat skriva som en apa? Varför bar kamikaze-piloter hjälm? Personen som uppfann hjulet var en idiot. Den som uppfann följande tre måste ha varit ett geni?
   Biologilärarinnan hade en anka. Jag sa <i>'Oj, det var den fulaste gris jag någonsin sett.'</i>. Hon sa, <i>'Gris?! Det är en anka!'</i>. <i>'Det ser jag. Det är honom jag talar med'</i>
 </p>
 <p>
@@ -126,7 +126,7 @@
   Jag gillade naturen. Var ofta ute i grönskan och letade pornografi.
   Jag var antagligen dysslikticker.
   Jag gillade de stora antika litterära äventyren med hjältar som Klitoris.
-  Jag minns att Dolly, det klonade fåret, själv blev befruktad på det traditionella sättet - genom fårahedern.
+  Jag minns att Dolly, det klonade fåret, själv blev befruktad på det traditionella sättet – genom fårahedern.
   <i>'Jag fixade byns kyrktak men ingen kallade mig Tim takfixaren. Sedan byggde jag byns mur men ingen kallade mig Tim murbyggaren. Sedan knullade jag ett får...'</i>.
   Man använder bara 10 % av hjärnan sa de. Vad använder man resterande 10 % till?
 </p>
@@ -161,7 +161,7 @@
 <p> 
   <strong>Under skolåren hoppade</strong> mina klasskamrater på allt som rörde sig. Men jag såg ingen anledning till att begränsa mig. Jag kommer ihåg min första kroppsliga relation. Av hur hennes kropp svarade på mina ömma smekningar kunde man nästan tro att hon var vid medvetande från toffsarna på fontanellen till taggen runt tån.
   En kyss är en anställningsintervju på högsta våning för ett jobb i källaren.
-  Fritzl byggde en källare och höll en flicka inlåst i år. Det fick mig att må dåligt - jag är 36 och är inte i närheten av att kunna bygga en källare.
+  Fritzl byggde en källare och höll en flicka inlåst i år. Det fick mig att må dåligt – jag är 36 och är inte i närheten av att kunna bygga en källare.
 </p>
 <p>
   <strong>Ogge-bagares pappa</strong> tog livet av sig. Vanligtvis gillar jag inte folk som tar genvägen hem.
@@ -189,14 +189,14 @@
 </p>
 <p>
   <strong>Jag blev tillsammans</strong> med en fyra år äldre tjej på gatan. Jag hade kännt henne från innan dess hon blev oskuld. Hon bar kläder så tighta att man kunde se vad hon tänkte. Rumpa som hos en tioårig pojke. Hon hade en papegoja. Aset höll inte tyst i två sekunder. Fågeln däremot, var schyst. 
-  Hon sa efter första träffen, <i>'Jag har haft en fantastisk afton. Men det var inte den här'</i>. Hon sa att jag inte hade några problem att få henne att uppnå antiklimax. Jag undrar om hon någon gång fick en orgasm under de två år vi var tillsammans, eller om hon fejkade den där natten. Förspel är som hamburgare - tre minuter på varje sida. Hennes favoritposition i sängen var rygg mot rygg. Hon ringde och sa <i>'Kan du inte komma över. Det är ingen hemma'</i>. Jag åkte över. Mycket riktigt, det var ingen hemma.
+  Hon sa efter första träffen, <i>'Jag har haft en fantastisk afton. Men det var inte den här'</i>. Hon sa att jag inte hade några problem att få henne att uppnå antiklimax. Jag undrar om hon någon gång fick en orgasm under de två år vi var tillsammans, eller om hon fejkade den där natten. Förspel är som hamburgare – tre minuter på varje sida. Hennes favoritposition i sängen var rygg mot rygg. Hon ringde och sa <i>'Kan du inte komma över. Det är ingen hemma'</i>. Jag åkte över. Mycket riktigt, det var ingen hemma.
 </p>
 <p>
-  <strong>Jag lärde mig</strong> att det finns en rad mekaniska ting för att stimulera kvinnor sexuellt. Den mest effektiva verkar vara en Mercedes 380SL. Jag närvarade vid ett möte för prematur ejakulation. Jag gick tidigt. Min flickvän blev gravid. Du är inte säker med kondom. Det är en myt - precis som växthuseffekten eller kungen. Min kompis hade kondom. Han blev överkörd av en buss. Det enda sättet att verkligen ha säker sex är att helt avstå - från att dricka.
+  <strong>Jag lärde mig</strong> att det finns en rad mekaniska ting för att stimulera kvinnor sexuellt. Den mest effektiva verkar vara en Mercedes 380SL. Jag närvarade vid ett möte för prematur ejakulation. Jag gick tidigt. Min flickvän blev gravid. Du är inte säker med kondom. Det är en myt – precis som växthuseffekten eller kungen. Min kompis hade kondom. Han blev överkörd av en buss. Det enda sättet att verkligen ha säker sex är att helt avstå – från att dricka.
 </p>
 <p>
   <strong>Mitt sexliv är</strong> numer så uselt att jag kommer ställa upp i celebat-världsmästerskapen. Jag möter påven i semi. Jag kommer inte ens ihåg vem som blir bunden längre. Sista gången jag var inne i en kvinna var när besökte frihetsgudinnan. Jag försökte med telefonsex men mitt kön fastande i nummerbrickan.
-  Jag måste sätta ögonbindel på min högerhanden när jag masturberar. Jag vaxade delfinen i bilen häromdagen. Jag kommer inte göra det igen. Taxi-chauffören var vansinnig. Det verkar finnas två ämnen som damtidningarna fokuserar på: 1. <i>'Varför män är svin'</i>. 2. <i>'Hur du attraherar män'</i>.
+  Jag måste sätta ögonbindel på min högerhand när jag masturberar. Jag vaxade delfinen i bilen häromdagen. Jag kommer inte göra det igen. Taxi-chauffören var vansinnig. Det verkar finnas två ämnen som damtidningarna fokuserar på: 1. <i>'Varför män är svin'</i>. 2. <i>'Hur du attraherar män'</i>.
   Men vad hade världen varit utan män? En fridfull plats med glada, tjocka kvinnor? Sexkanalerna på TV gör oss inte till bättre människor, de vidgar inte våra horisonter och de sänds inte i tillräckligt hög upplösning. Sex är det vackraste och mest naturliga som pengar kan köpa. Jag skulle vilja vara den sista mannen på jorden, om inte annat så bara för att se om de där tjejerna ljög för mig.
 </p>
 <p>
@@ -204,9 +204,9 @@
   Homofobi är den irrationella rädslan att tre filurer bryter sig in mitt i natten och dekorerar om. Om Michelangelo varit hetero så hade det sixtinska kapellet varit målat vitt med en roller. 
 </p>
 <p>
-  <strong>Pappa förstod att</strong> jag skolan inte var för mig. 
+  <strong>Pappa förstod att</strong> skolan inte var för mig. 
   När jag fyllde nio tog pappa med mig för att cappa en golare. Om du önskar dig en katt be dina föräldrar om en elefant. Jag fick en kniv. Pappa la sin arm om mig. Han sa, <i>'Grabben, Charlie, var det? Du vet lådan där jag förvarar gräset? Under pistolen och tidningarna med de nakna flickorna, där ligger det något till dig'</i>. 
 </p>
 <p>
-  <strong>Det hade blivit</strong> vinter. Det var så kallt att jag såg en politiker med händerna i sina egna fickor. Det var så kallt att blottare fick beskriva sina delar muntligt. Samma år hade jag missat stora delar av den svenska sommaren - jag var i duschen. Svensk sommar - börjar i mitten på juli, slutar 45 minuter senare. Väderprognosen för natten – mörk. Pappa satt gränsle över golaren och vevade med stålröret. Golaren var hal som en fuktig ål i maskinfett. Pappa var upptagen som en enarmad taxi-chaufför med flatlöss i en New York-korsning. Det blev kladdigt. Pappa sa, <i>'Du behöver inte alltid simma snabbare än hajen. Du behöver bara simma snabbare än den fete killen'</i>. Det hela påminde mycket om att älska med min flickvän - 10% upphetsning, 90% ångest.
+  <strong>Det hade blivit</strong> vinter. Det var så kallt att jag såg en politiker med händerna i sina egna fickor. Det var så kallt att blottare fick beskriva sina delar muntligt. Samma år hade jag missat stora delar av den svenska sommaren – jag var i duschen. Svensk sommar – börjar i mitten på juli, slutar 45 minuter senare. Väderprognosen för natten – mörk. Pappa satt gränsle över golaren och vevade med stålröret. Golaren var hal som en fuktig ål i maskinfett. Pappa var upptagen som en enarmad taxi-chaufför med flatlöss i en New York-korsning. Det blev kladdigt. Pappa sa, <i>'Du behöver inte alltid simma snabbare än hajen. Du behöver bara simma snabbare än den fete killen'</i>. Det hela påminde mycket om att älska med min flickvän - 10% upphetsning, 90% ångest.
 </p>
